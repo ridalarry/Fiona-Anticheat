@@ -13,14 +13,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b9dafcf7-a11b-470b-99f8-974fed4d3f88" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.classpath" beforeDir="false" afterPath="$PROJECT_DIR$/.classpath" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Fiona-Anticheat.eml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Fiona-Anticheat.eml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Fiona-Anticheat.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Fiona-Anticheat.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/FionaNew/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/FionaNew/config.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/FionaNew/messages.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/FionaNew/plugin.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/cc/funkemunky/fiona/Fiona.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cc/funkemunky/fiona/Fiona.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -30,87 +26,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/cc/funkemunky/fiona/data/PlayerData.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="9" column="69" selection-start-line="9" selection-start-column="69" selection-end-line="9" selection-end-column="69" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/cc/funkemunky/fiona/utils/PlayerTimer.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="374">
-              <caret line="26" column="52" selection-start-line="26" selection-start-column="52" selection-end-line="26" selection-end-column="52" />
-              <folding>
-                <element signature="e#564#565#0" expanded="true" />
-                <element signature="e#641#642#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/cc/funkemunky/fiona/Fiona.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="796">
-              <caret line="565" column="1" selection-start-line="565" selection-start-column="1" selection-end-line="565" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/cc/funkemunky/fiona/utils/gui/GUIManager.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2482">
-              <caret line="164" column="5" selection-start-line="164" selection-start-column="5" selection-end-line="164" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/cc/funkemunky/fiona/detections/combat/autoclicker/AutoClicker.java">
+        <entry file="file://$PROJECT_DIR$/Fiona-Anticheat.userlibraries">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="68">
-              <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/cc/funkemunky/fiona/detections/combat/aimassist/AimPattern.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="15" column="62" selection-start-line="15" selection-start-column="62" selection-end-line="15" selection-end-column="62" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/cc/funkemunky/fiona/detections/player/velocity/detections/TypeA.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="748">
-              <caret line="53" column="43" selection-start-line="53" selection-start-column="43" selection-end-line="53" selection-end-column="43" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/cc/funkemunky/fiona/detections/combat/killaura/KillAura.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="340">
-              <caret line="24" column="61" selection-start-line="24" selection-start-column="61" selection-end-line="24" selection-end-column="61" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/cc/funkemunky/fiona/detections/combat/reach/Reach.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="14" column="62" selection-start-line="14" selection-start-column="62" selection-end-line="14" selection-end-column="62" />
+              <caret line="4" column="57" selection-start-line="4" selection-start-column="57" selection-end-line="4" selection-end-column="57" />
             </state>
           </provider>
         </entry>
@@ -251,27 +171,6 @@
               <item name="Fiona-Anticheat" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="Fiona-Anticheat" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Fiona-Anticheat" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="cc" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Fiona-Anticheat" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Fiona-Anticheat" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="cc" type="462c0819:PsiDirectoryNode" />
-              <item name="funkemunky" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Fiona-Anticheat" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Fiona-Anticheat" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="cc" type="462c0819:PsiDirectoryNode" />
-              <item name="funkemunky" type="462c0819:PsiDirectoryNode" />
-              <item name="fiona" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -288,7 +187,7 @@
     <property name="Repository.Attach.JavaDocs" value="false" />
     <property name="Repository.Attach.Sources" value="false" />
     <property name="SearchEverywhereHistoryKey" value="WrappedPacketPlay&#9;PSI&#9;JAVA://com.ngxdev.tinyprotocol.packet.out.WrappedPacketPlayOutWorldParticle&#10;PacketPlayInUseItem&#9;PSI&#9;JAVA://net.minecraft.server.v1_12_R1.PacketPlayInUseItem&#10;PacketPlayINUseItem&#9;FILE&#9;jar://C:/Users/suckm/Documents/GitHub/Fiona/FionaNew/dependencies/spigot-1.9-R0.1-SNAPSHOT.jar!/net/minecraft/server/v1_9_R1/PacketPlayInUseItem.class&#10;PacketPlayInBlockDig&#9;PSI&#9;JAVA://net.minecraft.server.v1_10_R1.PacketPlayInBlockDig&#10;PacketPlayInBlockPlace&#9;PSI&#9;JAVA://net.minecraft.server.v1_13_R2.PacketPlayInBlockPlace&#10;net.minecraft.PacketPlayInBlockPlace&#9;PSI&#9;JAVA://net.minecraft.server.v1_8_R3.PacketPlayInBlockPlace&#10;EnumDirection&#9;PSI&#9;JAVA://com.ngxdev.tinyprotocol.packet.types.EnumDirection&#10;AxisAlignedBB&#9;PSI&#9;JAVA://net.minecraft.server.v1_7_R4.AxisAlignedBB" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1549327628188" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1549328627255" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/dependencies/spigot-1.8.8-R0.1-SNAPSHOT.jar!/" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.171875" />
@@ -458,7 +357,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/cc/funkemunky/fiona/detections/movement/fly/detections/TypeI.java" />
     <entry file="file://$PROJECT_DIR$/src/cc/funkemunky/fiona/detections/combat/reach/detections/TypeC.java" />
     <entry file="file://$PROJECT_DIR$/src/cc/funkemunky/fiona/detections/movement/fly/Fly.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -698,6 +596,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="796">
           <caret line="565" column="1" selection-start-line="565" selection-start-column="1" selection-end-line="565" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Fiona-Anticheat.userlibraries">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="57" selection-start-line="4" selection-start-column="57" selection-end-line="4" selection-end-column="57" />
         </state>
       </provider>
     </entry>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<eclipse-userlibraries>
+  <library name="lombok-1.18.0" />
+  <library name="org.mongodb:mongo-java-driver:3.8.0">
+    <archive path="C:/Users/Gigabite/.m2/repository/org/mongodb/mongo-java-driver/3.8.0/mongo-java-driver-3.8.0.jar" />
+  </library>
+  <library name="spigot-1.8.8-R0.1-SNAPSHOT" />
+</eclipse-userlibraries>
+

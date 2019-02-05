@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
 	<classpathentry kind="src" path="src"/>
 	<classpathentry kind="lib" path=".dependancies/lombok-1.18.0.jar"/>
 	<classpathentry kind="lib" path=".dependancies/paper-1.13.2.jar"/>
@@ -21,6 +22,6 @@
 	<classpathentry kind="lib" path=".dependancies/spigot-1.9-R0.1-SNAPSHOT.jar"/>
 	<classpathentry kind="lib" path=".dependancies/spigot-1.9.4-R0.1-SNAPSHOT-latest.jar"/>
 	<classpathentry kind="lib" path=".dependancies/spigot-1.9.4-R0.1-SNAPSHOT.jar"/>
-	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jdk1.8.0_181"/>
+	<classpathentry kind="lib" path="C:/Users/Gigabite/.m2/repository/org/mongodb/mongo-java-driver/3.8.0/mongo-java-driver-3.8.0.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
