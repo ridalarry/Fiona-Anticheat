@@ -13,9 +13,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b9dafcf7-a11b-470b-99f8-974fed4d3f88" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.classpath" beforeDir="false" afterPath="$PROJECT_DIR$/.classpath" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Fiona-Anticheat.eml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Fiona-Anticheat.eml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Fiona-Anticheat.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Fiona-Anticheat.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/lombok_1_18_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/lombok_1_18_0.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -26,11 +24,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/cc/funkemunky/fiona/Fiona.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="878">
+              <caret line="565" column="1" selection-start-line="565" selection-start-column="1" selection-end-line="565" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Fiona-Anticheat.userlibraries">
+        <entry file="file://$PROJECT_DIR$/src/cc/funkemunky/fiona/profiling/BaseProfiler.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="68">
-              <caret line="4" column="57" selection-start-line="4" selection-start-column="57" selection-end-line="4" selection-end-column="57" />
+              <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -171,6 +178,19 @@
               <item name="Fiona-Anticheat" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="Fiona-Anticheat" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Fiona-Anticheat" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="fiona" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Fiona-Anticheat" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Fiona-Anticheat" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="fiona" type="462c0819:PsiDirectoryNode" />
+              <item name="profiling" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -187,9 +207,9 @@
     <property name="Repository.Attach.JavaDocs" value="false" />
     <property name="Repository.Attach.Sources" value="false" />
     <property name="SearchEverywhereHistoryKey" value="WrappedPacketPlay&#9;PSI&#9;JAVA://com.ngxdev.tinyprotocol.packet.out.WrappedPacketPlayOutWorldParticle&#10;PacketPlayInUseItem&#9;PSI&#9;JAVA://net.minecraft.server.v1_12_R1.PacketPlayInUseItem&#10;PacketPlayINUseItem&#9;FILE&#9;jar://C:/Users/suckm/Documents/GitHub/Fiona/FionaNew/dependencies/spigot-1.9-R0.1-SNAPSHOT.jar!/net/minecraft/server/v1_9_R1/PacketPlayInUseItem.class&#10;PacketPlayInBlockDig&#9;PSI&#9;JAVA://net.minecraft.server.v1_10_R1.PacketPlayInBlockDig&#10;PacketPlayInBlockPlace&#9;PSI&#9;JAVA://net.minecraft.server.v1_13_R2.PacketPlayInBlockPlace&#10;net.minecraft.PacketPlayInBlockPlace&#9;PSI&#9;JAVA://net.minecraft.server.v1_8_R3.PacketPlayInBlockPlace&#10;EnumDirection&#9;PSI&#9;JAVA://com.ngxdev.tinyprotocol.packet.types.EnumDirection&#10;AxisAlignedBB&#9;PSI&#9;JAVA://net.minecraft.server.v1_7_R4.AxisAlignedBB" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1549328627255" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/dependencies/spigot-1.8.8-R0.1-SNAPSHOT.jar!/" />
-    <property name="project.structure.last.edited" value="Modules" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1549328837932" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/.dependancies/spigot-1.9.4-R0.1-SNAPSHOT.jar!/" />
+    <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.171875" />
     <property name="project.structure.side.proportion" value="0.22877358" />
     <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.annotationProcessors" />
@@ -275,7 +295,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1096" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.39658847" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -357,7 +376,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/cc/funkemunky/fiona/detections/combat/reach/detections/TypeC.java" />
     <entry file="file://$PROJECT_DIR$/src/cc/funkemunky/fiona/detections/movement/fly/Fly.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
@@ -592,17 +610,24 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Fiona-Anticheat.userlibraries">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="51" lean-forward="true" selection-start-line="3" selection-start-column="17" selection-end-line="3" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/cc/funkemunky/fiona/Fiona.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="796">
+        <state relative-caret-position="878">
           <caret line="565" column="1" selection-start-line="565" selection-start-column="1" selection-end-line="565" selection-end-column="1" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Fiona-Anticheat.userlibraries">
+    <entry file="file://$PROJECT_DIR$/src/cc/funkemunky/fiona/profiling/BaseProfiler.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
-          <caret line="4" column="57" selection-start-line="4" selection-start-column="57" selection-end-line="4" selection-end-column="57" />
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
         </state>
       </provider>
     </entry>
@@ -660,7 +685,7 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>FionaNew</last-edited>
+          <last-edited>Fiona-Anticheat</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
@@ -684,11 +709,11 @@
       </state>
       <state key="ProjectLibrariesConfigurable.UI">
         <settings>
-          <last-edited>spigot-1.8.8-R0.1-SNAPSHOT</last-edited>
+          <last-edited>lombok-1.18.0</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
-                <option value="0.22877358" />
+                <option value="0.15212265" />
               </list>
             </option>
           </splitter-proportions>
