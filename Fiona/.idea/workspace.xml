@@ -5,158 +5,341 @@
       <artifact name="FionaNew:jar" />
     </artifacts-to-build>
   </component>
-  <component name="BookmarkManager">
-    <bookmark url="file://$PROJECT_DIR$/src/cc/funkemunky/fiona/data/DataManager.java" line="19" />
-    <bookmark url="file://$PROJECT_DIR$/src/cc/funkemunky/fiona/data/MovementParser.java" line="145" />
-    <bookmark url="file://$PROJECT_DIR$/src/cc/funkemunky/fiona/data/PlayerData.java" line="33" />
-    <bookmark url="file://$PROJECT_DIR$/src/cc/funkemunky/fiona/detections/player/velocity/detections/TypeA.java" />
-  </component>
   <component name="ChangeListManager">
-    <list default="true" id="b9dafcf7-a11b-470b-99f8-974fed4d3f88" name="Default Changelist" comment="" />
+    <list default="true" id="b9dafcf7-a11b-470b-99f8-974fed4d3f88" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../.idea/artifacts/Fiona_Anticheat_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../META-INF/MANIFEST.MF" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cc/funkemunky/fiona/Fiona.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/me/rida/anticheat/AntiCheat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cc/funkemunky/fiona/commands/FunkeArgument.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/me/rida/anticheat/commands/FunkeArgument.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cc/funkemunky/fiona/commands/FunkeCommand.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/me/rida/anticheat/commands/FunkeCommand.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cc/funkemunky/fiona/commands/FunkeCommandManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/me/rida/anticheat/commands/FunkeCommandManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cc/funkemunky/fiona/data/DataManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/me/rida/anticheat/data/DataManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cc/funkemunky/fiona/data/MovementParser.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/me/rida/anticheat/data/MovementParser.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cc/funkemunky/fiona/data/PlayerData.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/me/rida/anticheat/data/PlayerData.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cc/funkemunky/fiona/data/ReliabilitySystem.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/me/rida/anticheat/data/ReliabilitySystem.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cc/funkemunky/fiona/data/logging/DatabaseType.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/me/rida/anticheat/data/logging/DatabaseType.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cc/funkemunky/fiona/data/logging/Log.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/me/rida/anticheat/data/logging/Log.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cc/funkemunky/fiona/data/logging/Logger.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/me/rida/anticheat/data/logging/Logger.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cc/funkemunky/fiona/data/logging/MySQL.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/me/rida/anticheat/data/logging/MySQL.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cc/funkemunky/fiona/data/logging/Yaml.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/me/rida/anticheat/data/logging/Yaml.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cc/funkemunky/fiona/detections/Check.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/me/rida/anticheat/detections/Check.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cc/funkemunky/fiona/detections/CheckManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/me/rida/anticheat/detections/CheckManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cc/funkemunky/fiona/detections/CheckType.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/me/rida/anticheat/detections/CheckType.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cc/funkemunky/fiona/detections/Detection.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/me/rida/anticheat/detections/Detection.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cc/funkemunky/fiona/detections/combat/aimassist/AimPattern.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/me/rida/anticheat/detections/combat/aimassist/AimPattern.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cc/funkemunky/fiona/detections/combat/aimassist/detections/TypeA.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/me/rida/anticheat/detections/combat/aimassist/detections/TypeA.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cc/funkemunky/fiona/detections/combat/aimassist/detections/TypeB.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/me/rida/anticheat/detections/combat/aimassist/detections/TypeB.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cc/funkemunky/fiona/detections/combat/aimassist/detections/TypeC.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/me/rida/anticheat/detections/combat/aimassist/detections/TypeC.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cc/funkemunky/fiona/detections/combat/aimassist/detections/TypeD.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/me/rida/anticheat/detections/combat/aimassist/detections/TypeD.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cc/funkemunky/fiona/detections/combat/autoclicker/AutoClicker.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/me/rida/anticheat/detections/combat/autoclicker/AutoClicker.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cc/funkemunky/fiona/detections/combat/autoclicker/detections/TypeA.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/me/rida/anticheat/detections/combat/autoclicker/detections/TypeA.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cc/funkemunky/fiona/detections/combat/autoclicker/detections/TypeB.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/me/rida/anticheat/detections/combat/autoclicker/detections/TypeB.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cc/funkemunky/fiona/detections/combat/autoclicker/detections/TypeC.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/me/rida/anticheat/detections/combat/autoclicker/detections/TypeC.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cc/funkemunky/fiona/detections/combat/criticals/Criticals.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/me/rida/anticheat/detections/combat/criticals/Criticals.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cc/funkemunky/fiona/detections/combat/criticals/detections/TypeA.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/me/rida/anticheat/detections/combat/criticals/detections/TypeA.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cc/funkemunky/fiona/detections/combat/criticals/detections/TypeB.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/me/rida/anticheat/detections/combat/criticals/detections/TypeB.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cc/funkemunky/fiona/detections/combat/criticals/detections/TypeC.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/me/rida/anticheat/detections/combat/criticals/detections/TypeC.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cc/funkemunky/fiona/detections/combat/fastbow/Fastbow.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/me/rida/anticheat/detections/combat/fastbow/Fastbow.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cc/funkemunky/fiona/detections/combat/fastbow/detections/TypeA.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/me/rida/anticheat/detections/combat/fastbow/detections/TypeA.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cc/funkemunky/fiona/detections/combat/killaura/KillAura.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/me/rida/anticheat/detections/combat/killaura/KillAura.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cc/funkemunky/fiona/detections/combat/killaura/detections/TypeA.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/me/rida/anticheat/detections/combat/killaura/detections/TypeA.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cc/funkemunky/fiona/detections/combat/killaura/detections/TypeB.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/me/rida/anticheat/detections/combat/killaura/detections/TypeB.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cc/funkemunky/fiona/detections/combat/killaura/detections/TypeC.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/me/rida/anticheat/detections/combat/killaura/detections/TypeC.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cc/funkemunky/fiona/detections/combat/killaura/detections/TypeD.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/me/rida/anticheat/detections/combat/killaura/detections/TypeD.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cc/funkemunky/fiona/detections/combat/killaura/detections/TypeE.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/me/rida/anticheat/detections/combat/killaura/detections/TypeE.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cc/funkemunky/fiona/detections/combat/killaura/detections/TypeF1_7.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/me/rida/anticheat/detections/combat/killaura/detections/TypeF1_7.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cc/funkemunky/fiona/detections/combat/killaura/detections/TypeF1_8.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/me/rida/anticheat/detections/combat/killaura/detections/TypeF1_8.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cc/funkemunky/fiona/detections/combat/killaura/detections/TypeG.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/me/rida/anticheat/detections/combat/killaura/detections/TypeG.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cc/funkemunky/fiona/detections/combat/killaura/detections/TypeH.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/me/rida/anticheat/detections/combat/killaura/detections/TypeH.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cc/funkemunky/fiona/detections/combat/killaura/detections/TypeI.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/me/rida/anticheat/detections/combat/killaura/detections/TypeI.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cc/funkemunky/fiona/detections/combat/killaura/detections/TypeJ.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/me/rida/anticheat/detections/combat/killaura/detections/TypeJ.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cc/funkemunky/fiona/detections/combat/killaura/detections/TypeK.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/me/rida/anticheat/detections/combat/killaura/detections/TypeK.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cc/funkemunky/fiona/detections/combat/reach/Reach.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/me/rida/anticheat/detections/combat/reach/Reach.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cc/funkemunky/fiona/detections/combat/reach/detections/TypeA.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/me/rida/anticheat/detections/combat/reach/detections/TypeA.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cc/funkemunky/fiona/detections/combat/reach/detections/TypeB.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/me/rida/anticheat/detections/combat/reach/detections/TypeB.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cc/funkemunky/fiona/detections/movement/fly/Fly.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/me/rida/anticheat/detections/movement/fly/Fly.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cc/funkemunky/fiona/detections/movement/fly/detections/TypeA.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/me/rida/anticheat/detections/movement/fly/detections/TypeA.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cc/funkemunky/fiona/detections/movement/fly/detections/TypeB.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/me/rida/anticheat/detections/movement/fly/detections/TypeB.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cc/funkemunky/fiona/detections/movement/fly/detections/TypeC.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/me/rida/anticheat/detections/movement/fly/detections/TypeC.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cc/funkemunky/fiona/detections/movement/fly/detections/TypeD.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/me/rida/anticheat/detections/movement/fly/detections/TypeD.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cc/funkemunky/fiona/detections/movement/fly/detections/TypeE.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/me/rida/anticheat/detections/movement/fly/detections/TypeE.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cc/funkemunky/fiona/detections/movement/fly/detections/TypeF.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/me/rida/anticheat/detections/movement/fly/detections/TypeF.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cc/funkemunky/fiona/detections/movement/fly/detections/TypeG.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/me/rida/anticheat/detections/movement/fly/detections/TypeG.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cc/funkemunky/fiona/detections/movement/fly/detections/TypeH.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/me/rida/anticheat/detections/movement/fly/detections/TypeH.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cc/funkemunky/fiona/detections/movement/jesus/Jesus.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/me/rida/anticheat/detections/movement/jesus/Jesus.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cc/funkemunky/fiona/detections/movement/jesus/detections/TypeA.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/me/rida/anticheat/detections/movement/jesus/detections/TypeA.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cc/funkemunky/fiona/detections/movement/jesus/detections/TypeB.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/me/rida/anticheat/detections/movement/jesus/detections/TypeB.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cc/funkemunky/fiona/detections/movement/nofall/NoFall.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/me/rida/anticheat/detections/movement/nofall/NoFall.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cc/funkemunky/fiona/detections/movement/nofall/detections/TypeA.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/me/rida/anticheat/detections/movement/nofall/detections/TypeA.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cc/funkemunky/fiona/detections/movement/nofall/detections/TypeB.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/me/rida/anticheat/detections/movement/nofall/detections/TypeB.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cc/funkemunky/fiona/detections/movement/nofall/detections/TypeC.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/me/rida/anticheat/detections/movement/nofall/detections/TypeC.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cc/funkemunky/fiona/detections/movement/nofall/detections/TypeD.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/me/rida/anticheat/detections/movement/nofall/detections/TypeD.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cc/funkemunky/fiona/detections/movement/noslowdown/NoSlowdown.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/me/rida/anticheat/detections/movement/noslowdown/NoSlowdown.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cc/funkemunky/fiona/detections/movement/noslowdown/detections/TypeA.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/me/rida/anticheat/detections/movement/noslowdown/detections/TypeA.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cc/funkemunky/fiona/detections/movement/noslowdown/detections/TypeB.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/me/rida/anticheat/detections/movement/noslowdown/detections/TypeB.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cc/funkemunky/fiona/detections/movement/noslowdown/detections/TypeC.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/me/rida/anticheat/detections/movement/noslowdown/detections/TypeC.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cc/funkemunky/fiona/detections/movement/speed/Speed.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/me/rida/anticheat/detections/movement/speed/Speed.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cc/funkemunky/fiona/detections/movement/speed/detections/TypeA.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/me/rida/anticheat/detections/movement/speed/detections/TypeA.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cc/funkemunky/fiona/detections/movement/speed/detections/TypeB.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/me/rida/anticheat/detections/movement/speed/detections/TypeB.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cc/funkemunky/fiona/detections/movement/speed/detections/TypeC.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/me/rida/anticheat/detections/movement/speed/detections/TypeC.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cc/funkemunky/fiona/detections/movement/speed/detections/TypeD.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/me/rida/anticheat/detections/movement/speed/detections/TypeD.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cc/funkemunky/fiona/detections/movement/sprint/Sprint.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/me/rida/anticheat/detections/movement/sprint/Sprint.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cc/funkemunky/fiona/detections/movement/sprint/detections/TypeA.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/me/rida/anticheat/detections/movement/sprint/detections/TypeA.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cc/funkemunky/fiona/detections/movement/step/Step.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/me/rida/anticheat/detections/movement/step/Step.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cc/funkemunky/fiona/detections/movement/step/detections/TypeA.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/me/rida/anticheat/detections/movement/step/detections/TypeA.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cc/funkemunky/fiona/detections/movement/step/detections/TypeB.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/me/rida/anticheat/detections/movement/step/detections/TypeB.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cc/funkemunky/fiona/detections/movement/step/detections/TypeC.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/me/rida/anticheat/detections/movement/step/detections/TypeC.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cc/funkemunky/fiona/detections/player/badpackets/BadPackets.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/me/rida/anticheat/detections/player/badpackets/BadPackets.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cc/funkemunky/fiona/detections/player/badpackets/detections/TypeA.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/me/rida/anticheat/detections/player/badpackets/detections/TypeA.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cc/funkemunky/fiona/detections/player/badpackets/detections/TypeC.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/me/rida/anticheat/detections/player/badpackets/detections/TypeC.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cc/funkemunky/fiona/detections/player/badpackets/detections/TypeD.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/me/rida/anticheat/detections/player/badpackets/detections/TypeD.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cc/funkemunky/fiona/detections/player/badpackets/detections/TypeE.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/me/rida/anticheat/detections/player/badpackets/detections/TypeE.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cc/funkemunky/fiona/detections/player/badpackets/detections/TypeF.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/me/rida/anticheat/detections/player/badpackets/detections/TypeF.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cc/funkemunky/fiona/detections/player/badpackets/detections/TypeG.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/me/rida/anticheat/detections/player/badpackets/detections/TypeG.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cc/funkemunky/fiona/detections/player/badpackets/detections/TypeH.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/me/rida/anticheat/detections/player/badpackets/detections/TypeH.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cc/funkemunky/fiona/detections/player/inventory/Inventory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/me/rida/anticheat/detections/player/inventory/Inventory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cc/funkemunky/fiona/detections/player/inventory/detections/TypeA.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/me/rida/anticheat/detections/player/inventory/detections/TypeA.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cc/funkemunky/fiona/detections/player/inventory/detections/TypeB.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/me/rida/anticheat/detections/player/inventory/detections/TypeB.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cc/funkemunky/fiona/detections/player/inventory/detections/TypeC.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/me/rida/anticheat/detections/player/inventory/detections/TypeC.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cc/funkemunky/fiona/detections/player/regen/Regen.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/me/rida/anticheat/detections/player/regen/Regen.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cc/funkemunky/fiona/detections/player/regen/detections/TypeA.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/me/rida/anticheat/detections/player/regen/detections/TypeA.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cc/funkemunky/fiona/detections/player/selfhit/SelfHit.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/me/rida/anticheat/detections/player/selfhit/SelfHit.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cc/funkemunky/fiona/detections/player/selfhit/detections/TypeA.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/me/rida/anticheat/detections/player/selfhit/detections/TypeA.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cc/funkemunky/fiona/detections/player/selfhit/detections/TypeB.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/me/rida/anticheat/detections/player/selfhit/detections/TypeB.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cc/funkemunky/fiona/detections/player/velocity/Velocity.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/me/rida/anticheat/detections/player/velocity/Velocity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cc/funkemunky/fiona/detections/player/velocity/detections/TypeA.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/me/rida/anticheat/detections/player/velocity/detections/TypeA.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cc/funkemunky/fiona/detections/player/velocity/detections/TypeB.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/me/rida/anticheat/detections/player/velocity/detections/TypeB.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cc/funkemunky/fiona/detections/world/block/Block.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/me/rida/anticheat/detections/world/block/Block.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cc/funkemunky/fiona/detections/world/block/detections/FastBreak1_8.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/me/rida/anticheat/detections/world/block/detections/FastBreak1_8.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cc/funkemunky/fiona/detections/world/block/detections/FastBreak1_9.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/me/rida/anticheat/detections/world/block/detections/FastBreak1_9.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cc/funkemunky/fiona/detections/world/hand/Hand.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/me/rida/anticheat/detections/world/hand/Hand.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cc/funkemunky/fiona/detections/world/hand/detections/TypeA.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/me/rida/anticheat/detections/world/hand/detections/TypeA.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cc/funkemunky/fiona/detections/world/hand/detections/TypeB.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/me/rida/anticheat/detections/world/hand/detections/TypeB.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cc/funkemunky/fiona/detections/world/scaffold/Scaffold.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/me/rida/anticheat/detections/world/scaffold/Scaffold.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cc/funkemunky/fiona/detections/world/scaffold/detections/TypeA.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/me/rida/anticheat/detections/world/scaffold/detections/TypeA.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cc/funkemunky/fiona/detections/world/scaffold/detections/TypeB.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/me/rida/anticheat/detections/world/scaffold/detections/TypeB.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cc/funkemunky/fiona/detections/world/scaffold/detections/TypeC.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/me/rida/anticheat/detections/world/scaffold/detections/TypeC.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cc/funkemunky/fiona/detections/world/scaffold/detections/TypeD.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/me/rida/anticheat/detections/world/scaffold/detections/TypeD.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cc/funkemunky/fiona/events/bukkit/CancerListeners.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/me/rida/anticheat/events/bukkit/CancerListeners.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cc/funkemunky/fiona/events/bukkit/DataEvents.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/me/rida/anticheat/events/bukkit/DataEvents.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cc/funkemunky/fiona/events/bukkit/PlayerConnectListeners.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/me/rida/anticheat/events/bukkit/PlayerConnectListeners.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cc/funkemunky/fiona/events/custom/FionaAlertEvent.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/me/rida/anticheat/events/custom/FionaAlertEvent.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cc/funkemunky/fiona/events/custom/FionaCancelEvent.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/me/rida/anticheat/events/custom/FionaCancelEvent.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cc/funkemunky/fiona/events/custom/FionaCheatEvent.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/me/rida/anticheat/events/custom/FionaCheatEvent.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cc/funkemunky/fiona/events/custom/FionaFallCorrectionEvent.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/me/rida/anticheat/events/custom/FionaFallCorrectionEvent.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cc/funkemunky/fiona/events/custom/FionaPunishEvent.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/me/rida/anticheat/events/custom/FionaPunishEvent.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cc/funkemunky/fiona/events/custom/PacketArmSwingEvent.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/me/rida/anticheat/events/custom/PacketArmSwingEvent.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cc/funkemunky/fiona/events/custom/PacketAttackEvent.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/me/rida/anticheat/events/custom/PacketAttackEvent.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cc/funkemunky/fiona/events/custom/PacketFunkeMoveEvent.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/me/rida/anticheat/events/custom/PacketFunkeMoveEvent.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cc/funkemunky/fiona/events/custom/PacketInvClickEvent.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/me/rida/anticheat/events/custom/PacketInvClickEvent.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cc/funkemunky/fiona/events/custom/PacketRecieveEvent.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/me/rida/anticheat/events/custom/PacketRecieveEvent.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cc/funkemunky/fiona/events/custom/PacketSendEvent.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/me/rida/anticheat/events/custom/PacketSendEvent.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cc/funkemunky/fiona/events/system/Cancellable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/me/rida/anticheat/events/system/Cancellable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cc/funkemunky/fiona/events/system/Event.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/me/rida/anticheat/events/system/Event.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cc/funkemunky/fiona/events/system/EventManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/me/rida/anticheat/events/system/EventManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cc/funkemunky/fiona/events/system/EventMethod.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/me/rida/anticheat/events/system/EventMethod.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cc/funkemunky/fiona/events/system/Listener.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/me/rida/anticheat/events/system/Listener.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cc/funkemunky/fiona/profiling/BaseProfiler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/me/rida/anticheat/profiling/BaseProfiler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cc/funkemunky/fiona/profiling/Profiler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/me/rida/anticheat/profiling/Profiler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cc/funkemunky/fiona/profiling/ToggleableProfiler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/me/rida/anticheat/profiling/ToggleableProfiler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cc/funkemunky/fiona/utils/BlockUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/me/rida/anticheat/utils/BlockUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cc/funkemunky/fiona/utils/BoundingBox.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/me/rida/anticheat/utils/BoundingBox.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cc/funkemunky/fiona/utils/BoxDebugType.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/me/rida/anticheat/utils/BoxDebugType.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cc/funkemunky/fiona/utils/Color.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/me/rida/anticheat/utils/Color.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cc/funkemunky/fiona/utils/Config.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/me/rida/anticheat/utils/Config.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cc/funkemunky/fiona/utils/FionaLocation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/me/rida/anticheat/utils/FionaLocation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cc/funkemunky/fiona/utils/FunkeFile.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/me/rida/anticheat/utils/FunkeFile.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cc/funkemunky/fiona/utils/JsonMessage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/me/rida/anticheat/utils/JsonMessage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cc/funkemunky/fiona/utils/MathHelper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/me/rida/anticheat/utils/MathHelper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cc/funkemunky/fiona/utils/MathUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/me/rida/anticheat/utils/MathUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cc/funkemunky/fiona/utils/Messages.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/me/rida/anticheat/utils/Messages.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cc/funkemunky/fiona/utils/MiscUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/me/rida/anticheat/utils/MiscUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cc/funkemunky/fiona/utils/MoveData.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/me/rida/anticheat/utils/MoveData.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cc/funkemunky/fiona/utils/PlayerTimer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/me/rida/anticheat/utils/PlayerTimer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cc/funkemunky/fiona/utils/PlayerUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/me/rida/anticheat/utils/PlayerUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cc/funkemunky/fiona/utils/ReflectionsUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/me/rida/anticheat/utils/ReflectionsUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cc/funkemunky/fiona/utils/Verbose.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/me/rida/anticheat/utils/Verbose.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cc/funkemunky/fiona/utils/Violation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/me/rida/anticheat/utils/Violation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cc/funkemunky/fiona/utils/blockbox/BlockBox.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/me/rida/anticheat/utils/blockbox/BlockBox.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cc/funkemunky/fiona/utils/blockbox/BlockBoxManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/me/rida/anticheat/utils/blockbox/BlockBoxManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cc/funkemunky/fiona/utils/blockbox/CollisionAssessment.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/me/rida/anticheat/utils/blockbox/CollisionAssessment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cc/funkemunky/fiona/utils/blockbox/boxes/BlockBox1_10_R1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/me/rida/anticheat/utils/blockbox/boxes/BlockBox1_10_R1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cc/funkemunky/fiona/utils/blockbox/boxes/BlockBox1_11_R1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/me/rida/anticheat/utils/blockbox/boxes/BlockBox1_11_R1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cc/funkemunky/fiona/utils/blockbox/boxes/BlockBox1_12_R1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/me/rida/anticheat/utils/blockbox/boxes/BlockBox1_12_R1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cc/funkemunky/fiona/utils/blockbox/boxes/BlockBox1_13_R1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/me/rida/anticheat/utils/blockbox/boxes/BlockBox1_13_R1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cc/funkemunky/fiona/utils/blockbox/boxes/BlockBox1_13_R2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/me/rida/anticheat/utils/blockbox/boxes/BlockBox1_13_R2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cc/funkemunky/fiona/utils/blockbox/boxes/BlockBox1_7_R4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/me/rida/anticheat/utils/blockbox/boxes/BlockBox1_7_R4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cc/funkemunky/fiona/utils/blockbox/boxes/BlockBox1_8_R1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/me/rida/anticheat/utils/blockbox/boxes/BlockBox1_8_R1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cc/funkemunky/fiona/utils/blockbox/boxes/BlockBox1_8_R2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/me/rida/anticheat/utils/blockbox/boxes/BlockBox1_8_R2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cc/funkemunky/fiona/utils/blockbox/boxes/BlockBox1_8_R3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/me/rida/anticheat/utils/blockbox/boxes/BlockBox1_8_R3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cc/funkemunky/fiona/utils/blockbox/boxes/BlockBox1_9_R1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/me/rida/anticheat/utils/blockbox/boxes/BlockBox1_9_R1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cc/funkemunky/fiona/utils/blockbox/boxes/BlockBox1_9_R2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/me/rida/anticheat/utils/blockbox/boxes/BlockBox1_9_R2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cc/funkemunky/fiona/utils/gui/GUI.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/me/rida/anticheat/utils/gui/GUI.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cc/funkemunky/fiona/utils/gui/GUIManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/me/rida/anticheat/utils/gui/GUIManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cc/funkemunky/fiona/utils/gui/ItemAnimation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/me/rida/anticheat/utils/gui/ItemAnimation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cc/funkemunky/fiona/utils/math/Average.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/me/rida/anticheat/utils/math/Average.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cc/funkemunky/fiona/utils/math/DynamicRollingAverage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/me/rida/anticheat/utils/math/DynamicRollingAverage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cc/funkemunky/fiona/utils/math/MCSmooth.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/me/rida/anticheat/utils/math/MCSmooth.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cc/funkemunky/fiona/utils/math/RayTrace.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/me/rida/anticheat/utils/math/RayTrace.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cc/funkemunky/fiona/utils/math/RollingAverage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/me/rida/anticheat/utils/math/RollingAverage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cc/funkemunky/fiona/utils/math/RollingAverageDouble.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/me/rida/anticheat/utils/math/RollingAverageDouble.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cc/funkemunky/fiona/utils/math/RollingAverageLong.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/me/rida/anticheat/utils/math/RollingAverageLong.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cc/funkemunky/fiona/utils/math/StatisticalAnalysis.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/me/rida/anticheat/utils/math/StatisticalAnalysis.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/ngxdev/tinyprotocol/api/AbstractTinyProtocol.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/me/rida/tinyprotocol/api/AbstractTinyProtocol.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/ngxdev/tinyprotocol/api/NMSObject.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/me/rida/tinyprotocol/api/NMSObject.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/ngxdev/tinyprotocol/api/Packet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/me/rida/tinyprotocol/api/Packet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/ngxdev/tinyprotocol/api/ProtocolVersion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/me/rida/tinyprotocol/api/ProtocolVersion.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/ngxdev/tinyprotocol/api/TinyProtocol1_7.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/me/rida/tinyprotocol/api/TinyProtocol1_7.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/ngxdev/tinyprotocol/api/TinyProtocol1_8.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/me/rida/tinyprotocol/api/TinyProtocol1_8.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/ngxdev/tinyprotocol/api/TinyProtocolHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/me/rida/tinyprotocol/api/TinyProtocolHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/ngxdev/tinyprotocol/packet/in/WrappedIn13KeepAlive.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/me/rida/tinyprotocol/packet/in/WrappedIn13KeepAlive.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/ngxdev/tinyprotocol/packet/in/WrappedInAbilitiesPacket.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/me/rida/tinyprotocol/packet/in/WrappedInAbilitiesPacket.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/ngxdev/tinyprotocol/packet/in/WrappedInArmAnimationPacket.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/me/rida/tinyprotocol/packet/in/WrappedInArmAnimationPacket.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/ngxdev/tinyprotocol/packet/in/WrappedInBlockDigPacket.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/me/rida/tinyprotocol/packet/in/WrappedInBlockDigPacket.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/ngxdev/tinyprotocol/packet/in/WrappedInBlockPlacePacket.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/me/rida/tinyprotocol/packet/in/WrappedInBlockPlacePacket.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/ngxdev/tinyprotocol/packet/in/WrappedInClientCommandPacket.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/me/rida/tinyprotocol/packet/in/WrappedInClientCommandPacket.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/ngxdev/tinyprotocol/packet/in/WrappedInCloseWindowPacket.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/me/rida/tinyprotocol/packet/in/WrappedInCloseWindowPacket.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/ngxdev/tinyprotocol/packet/in/WrappedInEntityActionPacket.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/me/rida/tinyprotocol/packet/in/WrappedInEntityActionPacket.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/ngxdev/tinyprotocol/packet/in/WrappedInFlyingPacket.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/me/rida/tinyprotocol/packet/in/WrappedInFlyingPacket.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/ngxdev/tinyprotocol/packet/in/WrappedInHeldItemSlotPacket.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/me/rida/tinyprotocol/packet/in/WrappedInHeldItemSlotPacket.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/ngxdev/tinyprotocol/packet/in/WrappedInKeepAlivePacket.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/me/rida/tinyprotocol/packet/in/WrappedInKeepAlivePacket.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/ngxdev/tinyprotocol/packet/in/WrappedInSteerVehiclePacket.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/me/rida/tinyprotocol/packet/in/WrappedInSteerVehiclePacket.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/ngxdev/tinyprotocol/packet/in/WrappedInTransactionPacket.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/me/rida/tinyprotocol/packet/in/WrappedInTransactionPacket.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/ngxdev/tinyprotocol/packet/in/WrappedInUseEntityPacket.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/me/rida/tinyprotocol/packet/in/WrappedInUseEntityPacket.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/ngxdev/tinyprotocol/packet/in/WrappedInVelocityPacket.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/me/rida/tinyprotocol/packet/in/WrappedInVelocityPacket.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/ngxdev/tinyprotocol/packet/in/WrappedInWindowClickPacket.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/me/rida/tinyprotocol/packet/in/WrappedInWindowClickPacket.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/ngxdev/tinyprotocol/packet/out/WrappedOutAbilitiesPacket.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/me/rida/tinyprotocol/packet/out/WrappedOutAbilitiesPacket.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/ngxdev/tinyprotocol/packet/out/WrappedOutBlockChange.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/me/rida/tinyprotocol/packet/out/WrappedOutBlockChange.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/ngxdev/tinyprotocol/packet/out/WrappedOutEntityMetadata.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/me/rida/tinyprotocol/packet/out/WrappedOutEntityMetadata.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/ngxdev/tinyprotocol/packet/out/WrappedOutKeepAlivePacket.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/me/rida/tinyprotocol/packet/out/WrappedOutKeepAlivePacket.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/ngxdev/tinyprotocol/packet/out/WrappedOutNamedEntitySpawn.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/me/rida/tinyprotocol/packet/out/WrappedOutNamedEntitySpawn.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/ngxdev/tinyprotocol/packet/out/WrappedOutPositionPacket.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/me/rida/tinyprotocol/packet/out/WrappedOutPositionPacket.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/ngxdev/tinyprotocol/packet/out/WrappedOutRelativePosition.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/me/rida/tinyprotocol/packet/out/WrappedOutRelativePosition.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/ngxdev/tinyprotocol/packet/out/WrappedOutTransaction.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/me/rida/tinyprotocol/packet/out/WrappedOutTransaction.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/ngxdev/tinyprotocol/packet/out/WrappedOutVelocityPacket.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/me/rida/tinyprotocol/packet/out/WrappedOutVelocityPacket.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/ngxdev/tinyprotocol/packet/out/WrappedPacketPlayOutWorldParticle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/me/rida/tinyprotocol/packet/out/WrappedPacketPlayOutWorldParticle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/ngxdev/tinyprotocol/packet/types/BaseBlockPosition.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/me/rida/tinyprotocol/packet/types/BaseBlockPosition.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/ngxdev/tinyprotocol/packet/types/EnumDirection.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/me/rida/tinyprotocol/packet/types/EnumDirection.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/ngxdev/tinyprotocol/packet/types/MathHelper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/me/rida/tinyprotocol/packet/types/MathHelper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/ngxdev/tinyprotocol/packet/types/Vec3D.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/me/rida/tinyprotocol/packet/types/Vec3D.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/ngxdev/tinyprotocol/packet/types/WrappedEnumParticle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/me/rida/tinyprotocol/packet/types/WrappedEnumParticle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/ngxdev/tinyprotocol/packet/types/WrappedGameProfile.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/me/rida/tinyprotocol/packet/types/WrappedGameProfile.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/ngxdev/tinyprotocol/packet/types/WrappedWatchableObject.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/me/rida/tinyprotocol/packet/types/WrappedWatchableObject.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/ngxdev/tinyprotocol/reflection/ConstructorInvoker.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/me/rida/tinyprotocol/reflection/ConstructorInvoker.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/ngxdev/tinyprotocol/reflection/FieldAccessor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/me/rida/tinyprotocol/reflection/FieldAccessor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/ngxdev/tinyprotocol/reflection/MethodInvoker.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/me/rida/tinyprotocol/reflection/MethodInvoker.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/ngxdev/tinyprotocol/reflection/Reflection.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/me/rida/tinyprotocol/reflection/Reflection.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/me/rida/anticheat/commands/fiona/FionaCommand.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/me/rida/anticheat/commands/fiona/args/AlertsArgument.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/me/rida/anticheat/commands/fiona/args/BoxWandArgument.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/me/rida/anticheat/commands/fiona/args/BroadcastArgument.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/me/rida/anticheat/commands/fiona/args/CancellableArgument.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/me/rida/anticheat/commands/fiona/args/DebugArgument.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/me/rida/anticheat/commands/fiona/args/DelayArgument.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/me/rida/anticheat/commands/fiona/args/DevArgument.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/me/rida/anticheat/commands/fiona/args/ExecutableArgument.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/me/rida/anticheat/commands/fiona/args/LagArgument.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/me/rida/anticheat/commands/fiona/args/LogArgument.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/me/rida/anticheat/commands/fiona/args/MenuArgument.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/me/rida/anticheat/commands/fiona/args/ProfileArgument.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/me/rida/anticheat/commands/fiona/args/ReloadArgument.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/me/rida/anticheat/commands/fiona/args/SaveArgument.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/me/rida/anticheat/commands/fiona/args/SetHungerArgument.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/me/rida/anticheat/commands/fiona/args/StatusArgument.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/me/rida/anticheat/commands/fiona/args/ToggleArgument.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/me/rida/anticheat/commands/fiona/args/UpdateConfigArgument.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/me/rida/anticheat/commands/fiona/args/VelocityArgument.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/me/rida/anticheat/commands/fiona/args/ViewArgument.java" beforeDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FUSProjectUsageTrigger">
-    <session id="2072312121">
-      <usages-collector id="statistics.lifecycle.project">
-        <counts>
-          <entry key="project.closed" value="53" />
-          <entry key="project.open.time.0" value="25" />
-          <entry key="project.open.time.1" value="12" />
-          <entry key="project.open.time.2" value="2" />
-          <entry key="project.open.time.3" value="1" />
-          <entry key="project.open.time.4" value="1" />
-          <entry key="project.open.time.5" value="3" />
-          <entry key="project.open.time.6" value="7" />
-          <entry key="project.open.time.7" value="6" />
-          <entry key="project.opened" value="57" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.open">
-        <counts>
-          <entry key="class" value="11" />
-          <entry key="java" value="495" />
-          <entry key="yml" value="17" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.open">
-        <counts>
-          <entry key="CLASS" value="11" />
-          <entry key="JAVA" value="495" />
-          <entry key="YAML" value="17" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.edit">
-        <counts>
-          <entry key="dummy" value="12" />
-          <entry key="java" value="20215" />
-          <entry key="yml" value="37" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.edit">
-        <counts>
-          <entry key="JAVA" value="20215" />
-          <entry key="PLAIN_TEXT" value="12" />
-          <entry key="YAML" value="37" />
-        </counts>
-      </usages-collector>
-    </session>
-  </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/cc/funkemunky/fiona/data/PlayerData.java">
+        <entry file="file://$PROJECT_DIR$/src/me/rida/anticheat/data/DataManager.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-306">
-              <caret line="9" column="69" selection-start-line="9" selection-start-column="69" selection-end-line="9" selection-end-column="69" />
+            <state relative-caret-position="68">
+              <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/cc/funkemunky/fiona/utils/PlayerTimer.java">
+        <entry file="file://$PROJECT_DIR$/src/me/rida/anticheat/data/MovementParser.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="391">
-              <caret line="26" column="52" selection-start-line="26" selection-start-column="52" selection-end-line="26" selection-end-column="52" />
-              <folding>
-                <element signature="e#564#565#0" expanded="true" />
-                <element signature="e#641#642#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="68">
+              <caret line="21" column="13" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/me/rida/anticheat/data/PlayerData.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="21" column="13" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/me/rida/anticheat/data/ReliabilitySystem.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/me/rida/anticheat/detections/combat/aimassist/detections/TypeA.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/me/rida/anticheat/detections/combat/aimassist/detections/TypeB.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/me/rida/anticheat/detections/combat/aimassist/detections/TypeC.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/cc/funkemunky/fiona/Fiona.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="147">
-              <caret line="368" column="30" selection-start-line="368" selection-start-column="30" selection-end-line="368" selection-end-column="30" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/cc/funkemunky/fiona/utils/gui/GUIManager.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="595">
-              <caret line="164" column="5" selection-start-line="164" selection-start-column="5" selection-end-line="164" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/cc/funkemunky/fiona/detections/combat/autoclicker/AutoClicker.java">
+        <entry file="file://$PROJECT_DIR$/src/me/rida/anticheat/detections/combat/aimassist/detections/TypeD.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="68">
-              <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+              <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/cc/funkemunky/fiona/detections/combat/aimassist/AimPattern.java">
+        <entry file="file://$PROJECT_DIR$/src/me/rida/anticheat/commands/anticheat/args/AlertsArgument.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="15" column="62" selection-start-line="15" selection-start-column="62" selection-end-line="15" selection-end-column="62" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/cc/funkemunky/fiona/detections/player/velocity/detections/TypeA.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="340">
-              <caret line="53" column="43" selection-start-line="53" selection-start-column="43" selection-end-line="53" selection-end-column="43" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/resources/plugin.yml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" column="14" selection-start-line="4" selection-start-column="14" selection-end-line="4" selection-end-column="14" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/cc/funkemunky/fiona/detections/combat/killaura/KillAura.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="340">
-              <caret line="24" column="61" selection-start-line="24" selection-start-column="61" selection-end-line="24" selection-end-column="61" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/cc/funkemunky/fiona/detections/combat/reach/Reach.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="14" column="62" selection-start-line="14" selection-start-column="62" selection-end-line="14" selection-end-column="62" />
+            <state relative-caret-position="289">
+              <caret line="23" column="54" selection-start-line="23" selection-start-column="54" selection-end-line="23" selection-end-column="54" />
             </state>
           </provider>
         </entry>
@@ -219,8 +402,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/cc/funkemunky/fiona/detections/player/badpackets/detections/Sneak.java" />
-        <option value="$PROJECT_DIR$/src/cc/funkemunky/fiona/detections/movement/jesus/detections/Even.java" />
         <option value="$PROJECT_DIR$/src/cc/funkemunky/fiona/detections/movement/jesus/Jesus.java" />
         <option value="$PROJECT_DIR$/src/cc/funkemunky/fiona/detections/movement/speed/detections/Limit.java" />
         <option value="$PROJECT_DIR$/src/cc/funkemunky/fiona/detections/combat/fastbow/detections/Speed.java" />
@@ -270,11 +451,14 @@
         <option value="$PROJECT_DIR$/resources/plugin.yml" />
         <option value="$PROJECT_DIR$/src/cc/funkemunky/fiona/data/PlayerData.java" />
         <option value="$PROJECT_DIR$/src/cc/funkemunky/fiona/Fiona.java" />
+        <option value="$PROJECT_DIR$/src/me/rida/anticheat/commands/FunkeArgument.java" />
+        <option value="$PROJECT_DIR$/src/me/rida/anticheat/AntiCheat.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-8" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="74" />
+    <option name="y" value="60" />
     <option name="width" value="1680" />
     <option name="height" value="934" />
   </component>
@@ -288,516 +472,36 @@
         <subPane>
           <expand>
             <path>
-              <item name="FionaNew" type="b2602c69:ProjectViewProjectNode" />
-              <item name="FionaNew" type="462c0819:PsiDirectoryNode" />
+              <item name="Fiona" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Fiona" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="FionaNew" type="b2602c69:ProjectViewProjectNode" />
-              <item name="FionaNew" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="Fiona" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Fiona" type="462c0819:PsiDirectoryNode" />
+              <item name="dependencies" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="FionaNew" type="b2602c69:ProjectViewProjectNode" />
-              <item name="FionaNew" type="462c0819:PsiDirectoryNode" />
+              <item name="Fiona" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Fiona" type="462c0819:PsiDirectoryNode" />
+              <item name="out" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Fiona" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Fiona" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="FionaNew" type="b2602c69:ProjectViewProjectNode" />
-              <item name="FionaNew" type="462c0819:PsiDirectoryNode" />
+              <item name="Fiona" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Fiona" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="fiona" type="462c0819:PsiDirectoryNode" />
+              <item name="rida" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="FionaNew" type="b2602c69:ProjectViewProjectNode" />
-              <item name="FionaNew" type="462c0819:PsiDirectoryNode" />
+              <item name="Fiona" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Fiona" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="fiona" type="462c0819:PsiDirectoryNode" />
-              <item name="commands" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="FionaNew" type="b2602c69:ProjectViewProjectNode" />
-              <item name="FionaNew" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="fiona" type="462c0819:PsiDirectoryNode" />
-              <item name="commands" type="462c0819:PsiDirectoryNode" />
-              <item name="fiona" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="FionaNew" type="b2602c69:ProjectViewProjectNode" />
-              <item name="FionaNew" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="fiona" type="462c0819:PsiDirectoryNode" />
-              <item name="commands" type="462c0819:PsiDirectoryNode" />
-              <item name="fiona" type="462c0819:PsiDirectoryNode" />
-              <item name="args" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="FionaNew" type="b2602c69:ProjectViewProjectNode" />
-              <item name="FionaNew" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="fiona" type="462c0819:PsiDirectoryNode" />
-              <item name="data" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="FionaNew" type="b2602c69:ProjectViewProjectNode" />
-              <item name="FionaNew" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="fiona" type="462c0819:PsiDirectoryNode" />
-              <item name="data" type="462c0819:PsiDirectoryNode" />
-              <item name="logging" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="FionaNew" type="b2602c69:ProjectViewProjectNode" />
-              <item name="FionaNew" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="fiona" type="462c0819:PsiDirectoryNode" />
-              <item name="detections" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="FionaNew" type="b2602c69:ProjectViewProjectNode" />
-              <item name="FionaNew" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="fiona" type="462c0819:PsiDirectoryNode" />
-              <item name="detections" type="462c0819:PsiDirectoryNode" />
-              <item name="combat" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="FionaNew" type="b2602c69:ProjectViewProjectNode" />
-              <item name="FionaNew" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="fiona" type="462c0819:PsiDirectoryNode" />
-              <item name="detections" type="462c0819:PsiDirectoryNode" />
-              <item name="combat" type="462c0819:PsiDirectoryNode" />
-              <item name="aimassist" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="FionaNew" type="b2602c69:ProjectViewProjectNode" />
-              <item name="FionaNew" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="fiona" type="462c0819:PsiDirectoryNode" />
-              <item name="detections" type="462c0819:PsiDirectoryNode" />
-              <item name="combat" type="462c0819:PsiDirectoryNode" />
-              <item name="aimassist" type="462c0819:PsiDirectoryNode" />
-              <item name="detections" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="FionaNew" type="b2602c69:ProjectViewProjectNode" />
-              <item name="FionaNew" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="fiona" type="462c0819:PsiDirectoryNode" />
-              <item name="detections" type="462c0819:PsiDirectoryNode" />
-              <item name="combat" type="462c0819:PsiDirectoryNode" />
-              <item name="autoclicker" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="FionaNew" type="b2602c69:ProjectViewProjectNode" />
-              <item name="FionaNew" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="fiona" type="462c0819:PsiDirectoryNode" />
-              <item name="detections" type="462c0819:PsiDirectoryNode" />
-              <item name="combat" type="462c0819:PsiDirectoryNode" />
-              <item name="autoclicker" type="462c0819:PsiDirectoryNode" />
-              <item name="detections" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="FionaNew" type="b2602c69:ProjectViewProjectNode" />
-              <item name="FionaNew" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="fiona" type="462c0819:PsiDirectoryNode" />
-              <item name="detections" type="462c0819:PsiDirectoryNode" />
-              <item name="combat" type="462c0819:PsiDirectoryNode" />
-              <item name="criticals" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="FionaNew" type="b2602c69:ProjectViewProjectNode" />
-              <item name="FionaNew" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="fiona" type="462c0819:PsiDirectoryNode" />
-              <item name="detections" type="462c0819:PsiDirectoryNode" />
-              <item name="combat" type="462c0819:PsiDirectoryNode" />
-              <item name="criticals" type="462c0819:PsiDirectoryNode" />
-              <item name="detections" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="FionaNew" type="b2602c69:ProjectViewProjectNode" />
-              <item name="FionaNew" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="fiona" type="462c0819:PsiDirectoryNode" />
-              <item name="detections" type="462c0819:PsiDirectoryNode" />
-              <item name="combat" type="462c0819:PsiDirectoryNode" />
-              <item name="fastbow" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="FionaNew" type="b2602c69:ProjectViewProjectNode" />
-              <item name="FionaNew" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="fiona" type="462c0819:PsiDirectoryNode" />
-              <item name="detections" type="462c0819:PsiDirectoryNode" />
-              <item name="combat" type="462c0819:PsiDirectoryNode" />
-              <item name="fastbow" type="462c0819:PsiDirectoryNode" />
-              <item name="detections" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="FionaNew" type="b2602c69:ProjectViewProjectNode" />
-              <item name="FionaNew" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="fiona" type="462c0819:PsiDirectoryNode" />
-              <item name="detections" type="462c0819:PsiDirectoryNode" />
-              <item name="combat" type="462c0819:PsiDirectoryNode" />
-              <item name="killaura" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="FionaNew" type="b2602c69:ProjectViewProjectNode" />
-              <item name="FionaNew" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="fiona" type="462c0819:PsiDirectoryNode" />
-              <item name="detections" type="462c0819:PsiDirectoryNode" />
-              <item name="combat" type="462c0819:PsiDirectoryNode" />
-              <item name="killaura" type="462c0819:PsiDirectoryNode" />
-              <item name="detections" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="FionaNew" type="b2602c69:ProjectViewProjectNode" />
-              <item name="FionaNew" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="fiona" type="462c0819:PsiDirectoryNode" />
-              <item name="detections" type="462c0819:PsiDirectoryNode" />
-              <item name="combat" type="462c0819:PsiDirectoryNode" />
-              <item name="reach" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="FionaNew" type="b2602c69:ProjectViewProjectNode" />
-              <item name="FionaNew" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="fiona" type="462c0819:PsiDirectoryNode" />
-              <item name="detections" type="462c0819:PsiDirectoryNode" />
-              <item name="combat" type="462c0819:PsiDirectoryNode" />
-              <item name="reach" type="462c0819:PsiDirectoryNode" />
-              <item name="detections" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="FionaNew" type="b2602c69:ProjectViewProjectNode" />
-              <item name="FionaNew" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="fiona" type="462c0819:PsiDirectoryNode" />
-              <item name="detections" type="462c0819:PsiDirectoryNode" />
-              <item name="movement" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="FionaNew" type="b2602c69:ProjectViewProjectNode" />
-              <item name="FionaNew" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="fiona" type="462c0819:PsiDirectoryNode" />
-              <item name="detections" type="462c0819:PsiDirectoryNode" />
-              <item name="movement" type="462c0819:PsiDirectoryNode" />
-              <item name="fly" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="FionaNew" type="b2602c69:ProjectViewProjectNode" />
-              <item name="FionaNew" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="fiona" type="462c0819:PsiDirectoryNode" />
-              <item name="detections" type="462c0819:PsiDirectoryNode" />
-              <item name="movement" type="462c0819:PsiDirectoryNode" />
-              <item name="fly" type="462c0819:PsiDirectoryNode" />
-              <item name="detections" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="FionaNew" type="b2602c69:ProjectViewProjectNode" />
-              <item name="FionaNew" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="fiona" type="462c0819:PsiDirectoryNode" />
-              <item name="detections" type="462c0819:PsiDirectoryNode" />
-              <item name="movement" type="462c0819:PsiDirectoryNode" />
-              <item name="invalidmotion" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="FionaNew" type="b2602c69:ProjectViewProjectNode" />
-              <item name="FionaNew" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="fiona" type="462c0819:PsiDirectoryNode" />
-              <item name="detections" type="462c0819:PsiDirectoryNode" />
-              <item name="movement" type="462c0819:PsiDirectoryNode" />
-              <item name="invalidmotion" type="462c0819:PsiDirectoryNode" />
-              <item name="detections" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="FionaNew" type="b2602c69:ProjectViewProjectNode" />
-              <item name="FionaNew" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="fiona" type="462c0819:PsiDirectoryNode" />
-              <item name="detections" type="462c0819:PsiDirectoryNode" />
-              <item name="movement" type="462c0819:PsiDirectoryNode" />
-              <item name="jesus" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="FionaNew" type="b2602c69:ProjectViewProjectNode" />
-              <item name="FionaNew" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="fiona" type="462c0819:PsiDirectoryNode" />
-              <item name="detections" type="462c0819:PsiDirectoryNode" />
-              <item name="movement" type="462c0819:PsiDirectoryNode" />
-              <item name="nofall" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="FionaNew" type="b2602c69:ProjectViewProjectNode" />
-              <item name="FionaNew" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="fiona" type="462c0819:PsiDirectoryNode" />
-              <item name="detections" type="462c0819:PsiDirectoryNode" />
-              <item name="movement" type="462c0819:PsiDirectoryNode" />
-              <item name="nofall" type="462c0819:PsiDirectoryNode" />
-              <item name="detections" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="FionaNew" type="b2602c69:ProjectViewProjectNode" />
-              <item name="FionaNew" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="fiona" type="462c0819:PsiDirectoryNode" />
-              <item name="detections" type="462c0819:PsiDirectoryNode" />
-              <item name="movement" type="462c0819:PsiDirectoryNode" />
-              <item name="noslowdown" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="FionaNew" type="b2602c69:ProjectViewProjectNode" />
-              <item name="FionaNew" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="fiona" type="462c0819:PsiDirectoryNode" />
-              <item name="detections" type="462c0819:PsiDirectoryNode" />
-              <item name="movement" type="462c0819:PsiDirectoryNode" />
-              <item name="speed" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="FionaNew" type="b2602c69:ProjectViewProjectNode" />
-              <item name="FionaNew" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="fiona" type="462c0819:PsiDirectoryNode" />
-              <item name="detections" type="462c0819:PsiDirectoryNode" />
-              <item name="movement" type="462c0819:PsiDirectoryNode" />
-              <item name="speed" type="462c0819:PsiDirectoryNode" />
-              <item name="detections" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="FionaNew" type="b2602c69:ProjectViewProjectNode" />
-              <item name="FionaNew" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="fiona" type="462c0819:PsiDirectoryNode" />
-              <item name="detections" type="462c0819:PsiDirectoryNode" />
-              <item name="movement" type="462c0819:PsiDirectoryNode" />
-              <item name="sprint" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="FionaNew" type="b2602c69:ProjectViewProjectNode" />
-              <item name="FionaNew" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="fiona" type="462c0819:PsiDirectoryNode" />
-              <item name="detections" type="462c0819:PsiDirectoryNode" />
-              <item name="movement" type="462c0819:PsiDirectoryNode" />
-              <item name="sprint" type="462c0819:PsiDirectoryNode" />
-              <item name="detections" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="FionaNew" type="b2602c69:ProjectViewProjectNode" />
-              <item name="FionaNew" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="fiona" type="462c0819:PsiDirectoryNode" />
-              <item name="detections" type="462c0819:PsiDirectoryNode" />
-              <item name="movement" type="462c0819:PsiDirectoryNode" />
-              <item name="step" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="FionaNew" type="b2602c69:ProjectViewProjectNode" />
-              <item name="FionaNew" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="fiona" type="462c0819:PsiDirectoryNode" />
-              <item name="detections" type="462c0819:PsiDirectoryNode" />
-              <item name="movement" type="462c0819:PsiDirectoryNode" />
-              <item name="step" type="462c0819:PsiDirectoryNode" />
-              <item name="detections" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="FionaNew" type="b2602c69:ProjectViewProjectNode" />
-              <item name="FionaNew" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="fiona" type="462c0819:PsiDirectoryNode" />
-              <item name="detections" type="462c0819:PsiDirectoryNode" />
-              <item name="player" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="FionaNew" type="b2602c69:ProjectViewProjectNode" />
-              <item name="FionaNew" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="fiona" type="462c0819:PsiDirectoryNode" />
-              <item name="detections" type="462c0819:PsiDirectoryNode" />
-              <item name="player" type="462c0819:PsiDirectoryNode" />
-              <item name="badpackets" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="FionaNew" type="b2602c69:ProjectViewProjectNode" />
-              <item name="FionaNew" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="fiona" type="462c0819:PsiDirectoryNode" />
-              <item name="detections" type="462c0819:PsiDirectoryNode" />
-              <item name="player" type="462c0819:PsiDirectoryNode" />
-              <item name="badpackets" type="462c0819:PsiDirectoryNode" />
-              <item name="detections" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="FionaNew" type="b2602c69:ProjectViewProjectNode" />
-              <item name="FionaNew" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="fiona" type="462c0819:PsiDirectoryNode" />
-              <item name="detections" type="462c0819:PsiDirectoryNode" />
-              <item name="player" type="462c0819:PsiDirectoryNode" />
-              <item name="inventory" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="FionaNew" type="b2602c69:ProjectViewProjectNode" />
-              <item name="FionaNew" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="fiona" type="462c0819:PsiDirectoryNode" />
-              <item name="detections" type="462c0819:PsiDirectoryNode" />
-              <item name="player" type="462c0819:PsiDirectoryNode" />
-              <item name="regen" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="FionaNew" type="b2602c69:ProjectViewProjectNode" />
-              <item name="FionaNew" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="fiona" type="462c0819:PsiDirectoryNode" />
-              <item name="detections" type="462c0819:PsiDirectoryNode" />
-              <item name="player" type="462c0819:PsiDirectoryNode" />
-              <item name="selfhit" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="FionaNew" type="b2602c69:ProjectViewProjectNode" />
-              <item name="FionaNew" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="fiona" type="462c0819:PsiDirectoryNode" />
-              <item name="detections" type="462c0819:PsiDirectoryNode" />
-              <item name="player" type="462c0819:PsiDirectoryNode" />
-              <item name="velocity" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="FionaNew" type="b2602c69:ProjectViewProjectNode" />
-              <item name="FionaNew" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="fiona" type="462c0819:PsiDirectoryNode" />
-              <item name="detections" type="462c0819:PsiDirectoryNode" />
-              <item name="player" type="462c0819:PsiDirectoryNode" />
-              <item name="velocity" type="462c0819:PsiDirectoryNode" />
-              <item name="detections" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="FionaNew" type="b2602c69:ProjectViewProjectNode" />
-              <item name="FionaNew" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="fiona" type="462c0819:PsiDirectoryNode" />
-              <item name="detections" type="462c0819:PsiDirectoryNode" />
-              <item name="world" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="FionaNew" type="b2602c69:ProjectViewProjectNode" />
-              <item name="FionaNew" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="fiona" type="462c0819:PsiDirectoryNode" />
-              <item name="detections" type="462c0819:PsiDirectoryNode" />
-              <item name="world" type="462c0819:PsiDirectoryNode" />
-              <item name="block" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="FionaNew" type="b2602c69:ProjectViewProjectNode" />
-              <item name="FionaNew" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="fiona" type="462c0819:PsiDirectoryNode" />
-              <item name="detections" type="462c0819:PsiDirectoryNode" />
-              <item name="world" type="462c0819:PsiDirectoryNode" />
-              <item name="block" type="462c0819:PsiDirectoryNode" />
-              <item name="detections" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="FionaNew" type="b2602c69:ProjectViewProjectNode" />
-              <item name="FionaNew" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="fiona" type="462c0819:PsiDirectoryNode" />
-              <item name="detections" type="462c0819:PsiDirectoryNode" />
-              <item name="world" type="462c0819:PsiDirectoryNode" />
-              <item name="hand" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="FionaNew" type="b2602c69:ProjectViewProjectNode" />
-              <item name="FionaNew" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="fiona" type="462c0819:PsiDirectoryNode" />
-              <item name="detections" type="462c0819:PsiDirectoryNode" />
-              <item name="world" type="462c0819:PsiDirectoryNode" />
-              <item name="hand" type="462c0819:PsiDirectoryNode" />
-              <item name="detections" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="FionaNew" type="b2602c69:ProjectViewProjectNode" />
-              <item name="FionaNew" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="fiona" type="462c0819:PsiDirectoryNode" />
-              <item name="detections" type="462c0819:PsiDirectoryNode" />
-              <item name="world" type="462c0819:PsiDirectoryNode" />
-              <item name="scaffold" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="FionaNew" type="b2602c69:ProjectViewProjectNode" />
-              <item name="FionaNew" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="fiona" type="462c0819:PsiDirectoryNode" />
-              <item name="detections" type="462c0819:PsiDirectoryNode" />
-              <item name="world" type="462c0819:PsiDirectoryNode" />
-              <item name="scaffold" type="462c0819:PsiDirectoryNode" />
-              <item name="detections" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="FionaNew" type="b2602c69:ProjectViewProjectNode" />
-              <item name="FionaNew" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="fiona" type="462c0819:PsiDirectoryNode" />
-              <item name="events" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="FionaNew" type="b2602c69:ProjectViewProjectNode" />
-              <item name="FionaNew" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="fiona" type="462c0819:PsiDirectoryNode" />
-              <item name="events" type="462c0819:PsiDirectoryNode" />
-              <item name="bukkit" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="FionaNew" type="b2602c69:ProjectViewProjectNode" />
-              <item name="FionaNew" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="fiona" type="462c0819:PsiDirectoryNode" />
-              <item name="events" type="462c0819:PsiDirectoryNode" />
-              <item name="custom" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="FionaNew" type="b2602c69:ProjectViewProjectNode" />
-              <item name="FionaNew" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="fiona" type="462c0819:PsiDirectoryNode" />
-              <item name="utils" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="FionaNew" type="b2602c69:ProjectViewProjectNode" />
-              <item name="FionaNew" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="fiona" type="462c0819:PsiDirectoryNode" />
-              <item name="utils" type="462c0819:PsiDirectoryNode" />
-              <item name="blockbox" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="FionaNew" type="b2602c69:ProjectViewProjectNode" />
-              <item name="FionaNew" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="fiona" type="462c0819:PsiDirectoryNode" />
-              <item name="utils" type="462c0819:PsiDirectoryNode" />
-              <item name="gui" type="462c0819:PsiDirectoryNode" />
+              <item name="rida" type="462c0819:PsiDirectoryNode" />
+              <item name="anticheat" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -816,8 +520,8 @@
     <property name="Repository.Attach.JavaDocs" value="false" />
     <property name="Repository.Attach.Sources" value="false" />
     <property name="SearchEverywhereHistoryKey" value="WrappedPacketPlay&#9;PSI&#9;JAVA://com.ngxdev.tinyprotocol.packet.out.WrappedPacketPlayOutWorldParticle&#10;PacketPlayInUseItem&#9;PSI&#9;JAVA://net.minecraft.server.v1_12_R1.PacketPlayInUseItem&#10;PacketPlayINUseItem&#9;FILE&#9;jar://C:/Users/suckm/Documents/GitHub/Fiona/FionaNew/dependencies/spigot-1.9-R0.1-SNAPSHOT.jar!/net/minecraft/server/v1_9_R1/PacketPlayInUseItem.class&#10;PacketPlayInBlockDig&#9;PSI&#9;JAVA://net.minecraft.server.v1_10_R1.PacketPlayInBlockDig&#10;PacketPlayInBlockPlace&#9;PSI&#9;JAVA://net.minecraft.server.v1_13_R2.PacketPlayInBlockPlace&#10;net.minecraft.PacketPlayInBlockPlace&#9;PSI&#9;JAVA://net.minecraft.server.v1_8_R3.PacketPlayInBlockPlace&#10;EnumDirection&#9;PSI&#9;JAVA://com.ngxdev.tinyprotocol.packet.types.EnumDirection&#10;AxisAlignedBB&#9;PSI&#9;JAVA://net.minecraft.server.v1_7_R4.AxisAlignedBB" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1546620085698" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/dependencies/spigot-1.8.8-R0.1-SNAPSHOT.jar!/" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1549506475985" />
+    <property name="last_opened_file_path" value="D:/Users/Gigabite/Documents/GitHub/MobRacers.1.8.8" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.171875" />
     <property name="project.structure.side.proportion" value="0.22877358" />
@@ -854,9 +558,9 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="74" y="60" width="1680" height="934" extended-state="0" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.3880597" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.40185186" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -864,7 +568,7 @@
       <window_info id="Capture Tool" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.329718" />
+      <window_info anchor="bottom" id="Find" order="1" visible="true" weight="0.32917964" />
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
@@ -882,6 +586,7 @@
       <window_info anchor="right" id="Palette&#9;" order="5" />
       <window_info anchor="right" id="Ant Build" order="6" weight="0.25" />
       <window_info anchor="right" id="Maven Projects" order="7" />
+      <window_info anchor="right" id="Maven" order="8" />
     </layout>
     <layout-to-restore>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.28997868" />
@@ -912,9 +617,6 @@
       <window_info anchor="right" id="Maven Projects" order="7" />
     </layout-to-restore>
   </component>
-  <component name="VcsContentAnnotationSettings">
-    <option name="myLimit" value="2678400000" />
-  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
@@ -938,244 +640,65 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/cc/funkemunky/fiona/detections/movement/fly/detections/TypeI.java" />
-    <entry file="file://$PROJECT_DIR$/src/cc/funkemunky/fiona/detections/combat/reach/detections/TypeC.java" />
-    <entry file="file://$PROJECT_DIR$/src/cc/funkemunky/fiona/detections/movement/fly/Fly.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/cc/funkemunky/fiona/detections/combat/autoclicker/detections/TypeF.java" />
-    <entry file="file://$PROJECT_DIR$/src/cc/funkemunky/fiona/detections/world/scaffold/detections/TypeD.java" />
-    <entry file="file://$PROJECT_DIR$/src/cc/funkemunky/fiona/detections/movement/speed/detections/TypeE.java" />
-    <entry file="file://$PROJECT_DIR$/src/cc/funkemunky/fiona/detections/combat/criticals/detections/TypeC.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/cc/funkemunky/fiona/detections/player/badpackets/detections/TypeH.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="21" column="19" selection-start-line="21" selection-start-column="19" selection-end-line="21" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/cc/funkemunky/fiona/detections/world/hand/Hand.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/cc/funkemunky/fiona/detections/world/scaffold/Scaffold.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="15" column="62" selection-start-line="15" selection-start-column="62" selection-end-line="15" selection-end-column="62" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/cc/funkemunky/fiona/detections/combat/aimassist/detections/TypeG.java" />
-    <entry file="file://$PROJECT_DIR$/src/cc/funkemunky/fiona/detections/combat/autoclicker/detections/TypeC.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/cc/funkemunky/fiona/detections/player/velocity/Velocity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="12" column="58" selection-start-line="12" selection-start-column="58" selection-end-line="12" selection-end-column="58" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/cc/funkemunky/fiona/detections/combat/killaura/detections/TypeK.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/cc/funkemunky/fiona/detections/player/velocity/detections/TypeB.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="840">
-          <caret line="63" selection-start-line="63" selection-end-line="63" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/cc/funkemunky/fiona/events/bukkit/DataEvents.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="758">
-          <caret line="468" column="1" selection-start-line="468" selection-start-column="1" selection-end-line="468" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cc/funkemunky/fiona/detections/player/velocity/detections/TypeB.java" />
+    <entry file="file://$PROJECT_DIR$/src/cc/funkemunky/fiona/events/bukkit/DataEvents.java" />
     <entry file="file://$PROJECT_DIR$/src/cc/funkemunky/fiona/detections/combat/autoclicker/detections/TypeG.java" />
     <entry file="file://$PROJECT_DIR$/src/cc/funkemunky/fiona/detections/combat/killaura/detections/TypeL.java" />
-    <entry file="file://$PROJECT_DIR$/src/cc/funkemunky/fiona/detections/combat/reach/detections/TypeB.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/cc/funkemunky/fiona/detections/movement/speed/Speed.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="15" column="60" selection-start-line="15" selection-start-column="60" selection-end-line="15" selection-end-column="60" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/cc/funkemunky/fiona/detections/movement/step/Step.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cc/funkemunky/fiona/detections/combat/reach/detections/TypeB.java" />
+    <entry file="file://$PROJECT_DIR$/src/cc/funkemunky/fiona/detections/movement/speed/Speed.java" />
+    <entry file="file://$PROJECT_DIR$/src/cc/funkemunky/fiona/detections/movement/step/Step.java" />
     <entry file="file://$PROJECT_DIR$/src/cc/funkemunky/fiona/detections/player/badpackets/detections/TypeI.java" />
-    <entry file="file://$PROJECT_DIR$/src/cc/funkemunky/fiona/detections/player/badpackets/BadPackets.java">
+    <entry file="file://$PROJECT_DIR$/src/cc/funkemunky/fiona/detections/player/badpackets/BadPackets.java" />
+    <entry file="file://$PROJECT_DIR$/src/cc/funkemunky/fiona/commands/fiona/args/LagArgument.java" />
+    <entry file="file://$PROJECT_DIR$/src/cc/funkemunky/fiona/commands/fiona/args/CancellableArgument.java" />
+    <entry file="file://$PROJECT_DIR$/src/cc/funkemunky/fiona/commands/fiona/args/VelocityArgument.java" />
+    <entry file="file://$PROJECT_DIR$/src/cc/funkemunky/fiona/commands/fiona/args/ReloadArgument.java" />
+    <entry file="file://$PROJECT_DIR$/src/cc/funkemunky/fiona/commands/fiona/args/LogArgument.java" />
+    <entry file="file://$PROJECT_DIR$/src/cc/funkemunky/fiona/commands/fiona/args/DelayArgument.java" />
+    <entry file="file://$PROJECT_DIR$/src/cc/funkemunky/fiona/commands/fiona/args/StatusArgument.java" />
+    <entry file="file://$PROJECT_DIR$/src/cc/funkemunky/fiona/commands/fiona/args/MenuArgument.java" />
+    <entry file="file://$PROJECT_DIR$/src/cc/funkemunky/fiona/commands/fiona/args/AlertsArgument.java" />
+    <entry file="file://$PROJECT_DIR$/src/cc/funkemunky/fiona/utils/blockbox/CollisionAssessment.java" />
+    <entry file="file://$PROJECT_DIR$/src/cc/funkemunky/fiona/detections/movement/invalidmotion/detections/TypeA.java" />
+    <entry file="file://$PROJECT_DIR$/src/cc/funkemunky/fiona/utils/MathUtils.java" />
+    <entry file="file://$PROJECT_DIR$/src/cc/funkemunky/fiona/utils/gui/GUI.java" />
+    <entry file="file://$PROJECT_DIR$/src/cc/funkemunky/fiona/utils/gui/impl/ViolationGUI.java" />
+    <entry file="file://$PROJECT_DIR$/src/cc/funkemunky/fiona/detections/movement/fly/detections/TypeA.java" />
+    <entry file="file://$PROJECT_DIR$/src/cc/funkemunky/fiona/utils/gui/impl/MainGUI.java" />
+    <entry file="file://$PROJECT_DIR$/src/cc/funkemunky/fiona/commands/fiona/args/ViewArgument.java" />
+    <entry file="file://$PROJECT_DIR$/src/cc/funkemunky/fiona/commands/fiona/args/DevArgument.java" />
+    <entry file="file://$PROJECT_DIR$/src/cc/funkemunky/fiona/utils/gui/GUIManager.java" />
+    <entry file="file://$PROJECT_DIR$/src/cc/funkemunky/fiona/detections/combat/reach/Reach.java" />
+    <entry file="file://$PROJECT_DIR$/src/cc/funkemunky/fiona/detections/combat/killaura/KillAura.java" />
+    <entry file="file://$PROJECT_DIR$/src/cc/funkemunky/fiona/detections/combat/autoclicker/AutoClicker.java" />
+    <entry file="file://$PROJECT_DIR$/src/cc/funkemunky/fiona/detections/combat/aimassist/AimPattern.java" />
+    <entry file="file://$PROJECT_DIR$/src/cc/funkemunky/fiona/detections/player/velocity/detections/TypeA.java" />
+    <entry file="file://$PROJECT_DIR$/src/cc/funkemunky/fiona/data/PlayerData.java" />
+    <entry file="file://$PROJECT_DIR$/src/cc/funkemunky/fiona/utils/PlayerTimer.java" />
+    <entry file="file://$PROJECT_DIR$/src/cc/funkemunky/fiona/Fiona.java" />
+    <entry file="file://$PROJECT_DIR$/src/me/rida/anticheat/commands/FunkeArgument.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" column="60" selection-start-line="17" selection-start-column="60" selection-end-line="17" selection-end-column="60" />
+        <state relative-caret-position="629">
+          <caret line="46" column="25" selection-start-line="46" selection-start-column="25" selection-end-line="46" selection-end-column="25" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/cc/funkemunky/fiona/commands/fiona/args/LagArgument.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/cc/funkemunky/fiona/commands/fiona/args/CancellableArgument.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/cc/funkemunky/fiona/commands/fiona/args/VelocityArgument.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/cc/funkemunky/fiona/commands/fiona/args/ReloadArgument.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/cc/funkemunky/fiona/commands/fiona/args/LogArgument.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/cc/funkemunky/fiona/commands/fiona/args/DelayArgument.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/cc/funkemunky/fiona/commands/fiona/args/StatusArgument.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/cc/funkemunky/fiona/commands/fiona/args/MenuArgument.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/cc/funkemunky/fiona/commands/fiona/args/AlertsArgument.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/cc/funkemunky/fiona/utils/blockbox/CollisionAssessment.java">
+    <entry file="file://$PROJECT_DIR$/src/me/rida/anticheat/commands/fiona/args/BoxWandArgument.java" />
+    <entry file="file://$PROJECT_DIR$/src/me/rida/anticheat/commands/fiona/args/BroadcastArgument.java" />
+    <entry file="file://$PROJECT_DIR$/src/me/rida/anticheat/AntiCheat.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="578">
-          <caret line="53" column="12" selection-start-line="53" selection-start-column="12" selection-end-line="53" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/cc/funkemunky/fiona/detections/movement/invalidmotion/detections/TypeA.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3604">
-          <caret line="232" column="70" selection-start-line="232" selection-start-column="70" selection-end-line="232" selection-end-column="70" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/cc/funkemunky/fiona/utils/MathUtils.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="4845">
-          <caret line="285" column="52" selection-start-line="285" selection-start-column="52" selection-end-line="285" selection-end-column="52" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/cc/funkemunky/fiona/utils/gui/GUI.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1904">
-          <caret line="139" column="47" selection-start-line="139" selection-start-column="47" selection-end-line="139" selection-end-column="47" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/cc/funkemunky/fiona/utils/gui/impl/ViolationGUI.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="12" selection-start-line="12" selection-end-line="12" />
+        <state relative-caret-position="304">
+          <caret line="429" column="71" selection-start-line="429" selection-start-column="71" selection-end-line="429" selection-end-column="71" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="e#3021#3022#0" expanded="true" />
+            <element signature="e#3052#3053#0" expanded="true" />
+            <element signature="e#3664#4530#0" expanded="true" />
+            <element signature="e#4529#4530#0" expanded="true" />
+            <element signature="e#14567#14568#0" expanded="true" />
+            <element signature="e#14601#14602#0" expanded="true" />
+            <element signature="e#14865#15456#0" expanded="true" />
+            <element signature="e#15455#15456#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/cc/funkemunky/fiona/detections/movement/fly/detections/TypeA.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/cc/funkemunky/fiona/utils/gui/impl/MainGUI.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2193">
-          <caret line="142" column="172" selection-start-line="142" selection-start-column="172" selection-end-line="142" selection-end-column="172" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/cc/funkemunky/fiona/commands/fiona/args/ViewArgument.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/cc/funkemunky/fiona/commands/fiona/args/DevArgument.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="21" column="13" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/cc/funkemunky/fiona/utils/gui/GUIManager.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="595">
-          <caret line="164" column="5" selection-start-line="164" selection-start-column="5" selection-end-line="164" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/cc/funkemunky/fiona/detections/combat/reach/Reach.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="14" column="62" selection-start-line="14" selection-start-column="62" selection-end-line="14" selection-end-column="62" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/cc/funkemunky/fiona/detections/combat/killaura/KillAura.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="24" column="61" selection-start-line="24" selection-start-column="61" selection-end-line="24" selection-end-column="61" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/cc/funkemunky/fiona/detections/combat/autoclicker/AutoClicker.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/cc/funkemunky/fiona/detections/combat/aimassist/AimPattern.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="15" column="62" selection-start-line="15" selection-start-column="62" selection-end-line="15" selection-end-column="62" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/cc/funkemunky/fiona/detections/player/velocity/detections/TypeA.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="53" column="43" selection-start-line="53" selection-start-column="43" selection-end-line="53" selection-end-column="43" />
         </state>
       </provider>
     </entry>
@@ -1186,28 +709,67 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/cc/funkemunky/fiona/data/PlayerData.java">
+    <entry file="file://$PROJECT_DIR$/src/me/rida/anticheat/commands/fiona/args/AlertsArgument.java" />
+    <entry file="file://$PROJECT_DIR$/src/me/rida/anticheat/data/DataManager.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-306">
-          <caret line="9" column="69" selection-start-line="9" selection-start-column="69" selection-end-line="9" selection-end-column="69" />
+        <state relative-caret-position="68">
+          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/cc/funkemunky/fiona/utils/PlayerTimer.java">
+    <entry file="file://$PROJECT_DIR$/src/me/rida/anticheat/data/MovementParser.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="26" column="52" selection-start-line="26" selection-start-column="52" selection-end-line="26" selection-end-column="52" />
-          <folding>
-            <element signature="e#564#565#0" expanded="true" />
-            <element signature="e#641#642#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="68">
+          <caret line="21" column="13" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/cc/funkemunky/fiona/Fiona.java">
+    <entry file="file://$PROJECT_DIR$/src/me/rida/anticheat/data/PlayerData.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="147">
-          <caret line="368" column="30" selection-start-line="368" selection-start-column="30" selection-end-line="368" selection-end-column="30" />
+        <state relative-caret-position="68">
+          <caret line="21" column="13" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/me/rida/anticheat/data/ReliabilitySystem.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/me/rida/anticheat/detections/combat/aimassist/detections/TypeA.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/me/rida/anticheat/detections/combat/aimassist/detections/TypeB.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/me/rida/anticheat/detections/combat/aimassist/detections/TypeC.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/me/rida/anticheat/commands/anticheat/args/AlertsArgument.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="23" column="54" selection-start-line="23" selection-start-column="54" selection-end-line="23" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/me/rida/anticheat/detections/combat/aimassist/detections/TypeD.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
         </state>
       </provider>
     </entry>

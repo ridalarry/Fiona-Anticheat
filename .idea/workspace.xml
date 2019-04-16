@@ -1,0 +1,641 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="Fiona-Anticheat:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6c99faa0-4eb3-40f6-a4bc-85ef1448e0a5" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/Fiona_Anticheat_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/META-INF/MANIFEST.MF" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fiona/src/cc/funkemunky/fiona/Fiona.java" beforeDir="false" afterPath="$PROJECT_DIR$/Fiona/src/me/rida/anticheat/AntiCheat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fiona/src/cc/funkemunky/fiona/commands/FunkeArgument.java" beforeDir="false" afterPath="$PROJECT_DIR$/Fiona/src/me/rida/anticheat/commands/FunkeArgument.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fiona/src/cc/funkemunky/fiona/commands/FunkeCommand.java" beforeDir="false" afterPath="$PROJECT_DIR$/Fiona/src/me/rida/anticheat/commands/FunkeCommand.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fiona/src/cc/funkemunky/fiona/commands/FunkeCommandManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/Fiona/src/me/rida/anticheat/commands/FunkeCommandManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fiona/src/cc/funkemunky/fiona/commands/fiona/FionaCommand.java" beforeDir="false" afterPath="$PROJECT_DIR$/Fiona/src/me/rida/anticheat/commands/fiona/FionaCommand.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fiona/src/cc/funkemunky/fiona/commands/fiona/args/AlertsArgument.java" beforeDir="false" afterPath="$PROJECT_DIR$/Fiona/src/me/rida/anticheat/commands/fiona/args/AlertsArgument.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fiona/src/cc/funkemunky/fiona/commands/fiona/args/BoxWandArgument.java" beforeDir="false" afterPath="$PROJECT_DIR$/Fiona/src/me/rida/anticheat/commands/fiona/args/BoxWandArgument.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fiona/src/cc/funkemunky/fiona/commands/fiona/args/BroadcastArgument.java" beforeDir="false" afterPath="$PROJECT_DIR$/Fiona/src/me/rida/anticheat/commands/fiona/args/BroadcastArgument.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fiona/src/cc/funkemunky/fiona/commands/fiona/args/CancellableArgument.java" beforeDir="false" afterPath="$PROJECT_DIR$/Fiona/src/me/rida/anticheat/commands/fiona/args/CancellableArgument.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fiona/src/cc/funkemunky/fiona/commands/fiona/args/DebugArgument.java" beforeDir="false" afterPath="$PROJECT_DIR$/Fiona/src/me/rida/anticheat/commands/fiona/args/DebugArgument.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fiona/src/cc/funkemunky/fiona/commands/fiona/args/DelayArgument.java" beforeDir="false" afterPath="$PROJECT_DIR$/Fiona/src/me/rida/anticheat/commands/fiona/args/DelayArgument.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fiona/src/cc/funkemunky/fiona/commands/fiona/args/DevArgument.java" beforeDir="false" afterPath="$PROJECT_DIR$/Fiona/src/me/rida/anticheat/commands/fiona/args/DevArgument.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fiona/src/cc/funkemunky/fiona/commands/fiona/args/ExecutableArgument.java" beforeDir="false" afterPath="$PROJECT_DIR$/Fiona/src/me/rida/anticheat/commands/fiona/args/ExecutableArgument.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fiona/src/cc/funkemunky/fiona/commands/fiona/args/LagArgument.java" beforeDir="false" afterPath="$PROJECT_DIR$/Fiona/src/me/rida/anticheat/commands/fiona/args/LagArgument.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fiona/src/cc/funkemunky/fiona/commands/fiona/args/LogArgument.java" beforeDir="false" afterPath="$PROJECT_DIR$/Fiona/src/me/rida/anticheat/commands/fiona/args/LogArgument.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fiona/src/cc/funkemunky/fiona/commands/fiona/args/MenuArgument.java" beforeDir="false" afterPath="$PROJECT_DIR$/Fiona/src/me/rida/anticheat/commands/fiona/args/MenuArgument.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fiona/src/cc/funkemunky/fiona/commands/fiona/args/ProfileArgument.java" beforeDir="false" afterPath="$PROJECT_DIR$/Fiona/src/me/rida/anticheat/commands/fiona/args/ProfileArgument.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fiona/src/cc/funkemunky/fiona/commands/fiona/args/ReloadArgument.java" beforeDir="false" afterPath="$PROJECT_DIR$/Fiona/src/me/rida/anticheat/commands/fiona/args/ReloadArgument.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fiona/src/cc/funkemunky/fiona/commands/fiona/args/SaveArgument.java" beforeDir="false" afterPath="$PROJECT_DIR$/Fiona/src/me/rida/anticheat/commands/fiona/args/SaveArgument.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fiona/src/cc/funkemunky/fiona/commands/fiona/args/SetHungerArgument.java" beforeDir="false" afterPath="$PROJECT_DIR$/Fiona/src/me/rida/anticheat/commands/fiona/args/SetHungerArgument.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fiona/src/cc/funkemunky/fiona/commands/fiona/args/StatusArgument.java" beforeDir="false" afterPath="$PROJECT_DIR$/Fiona/src/me/rida/anticheat/commands/fiona/args/StatusArgument.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fiona/src/cc/funkemunky/fiona/commands/fiona/args/ToggleArgument.java" beforeDir="false" afterPath="$PROJECT_DIR$/Fiona/src/me/rida/anticheat/commands/fiona/args/ToggleArgument.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fiona/src/cc/funkemunky/fiona/commands/fiona/args/UpdateConfigArgument.java" beforeDir="false" afterPath="$PROJECT_DIR$/Fiona/src/me/rida/anticheat/commands/fiona/args/UpdateConfigArgument.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fiona/src/cc/funkemunky/fiona/commands/fiona/args/VelocityArgument.java" beforeDir="false" afterPath="$PROJECT_DIR$/Fiona/src/me/rida/anticheat/commands/fiona/args/VelocityArgument.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fiona/src/cc/funkemunky/fiona/commands/fiona/args/ViewArgument.java" beforeDir="false" afterPath="$PROJECT_DIR$/Fiona/src/me/rida/anticheat/commands/fiona/args/ViewArgument.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fiona/src/cc/funkemunky/fiona/data/DataManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/Fiona/src/me/rida/anticheat/data/DataManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fiona/src/cc/funkemunky/fiona/data/MovementParser.java" beforeDir="false" afterPath="$PROJECT_DIR$/Fiona/src/me/rida/anticheat/data/MovementParser.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fiona/src/cc/funkemunky/fiona/data/PlayerData.java" beforeDir="false" afterPath="$PROJECT_DIR$/Fiona/src/me/rida/anticheat/data/PlayerData.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fiona/src/cc/funkemunky/fiona/data/ReliabilitySystem.java" beforeDir="false" afterPath="$PROJECT_DIR$/Fiona/src/me/rida/anticheat/data/ReliabilitySystem.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fiona/src/cc/funkemunky/fiona/data/logging/DatabaseType.java" beforeDir="false" afterPath="$PROJECT_DIR$/Fiona/src/me/rida/anticheat/data/logging/DatabaseType.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fiona/src/cc/funkemunky/fiona/data/logging/Log.java" beforeDir="false" afterPath="$PROJECT_DIR$/Fiona/src/me/rida/anticheat/data/logging/Log.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fiona/src/cc/funkemunky/fiona/data/logging/Logger.java" beforeDir="false" afterPath="$PROJECT_DIR$/Fiona/src/me/rida/anticheat/data/logging/Logger.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fiona/src/cc/funkemunky/fiona/data/logging/MySQL.java" beforeDir="false" afterPath="$PROJECT_DIR$/Fiona/src/me/rida/anticheat/data/logging/MySQL.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fiona/src/cc/funkemunky/fiona/data/logging/Yaml.java" beforeDir="false" afterPath="$PROJECT_DIR$/Fiona/src/me/rida/anticheat/data/logging/Yaml.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fiona/src/cc/funkemunky/fiona/detections/Check.java" beforeDir="false" afterPath="$PROJECT_DIR$/Fiona/src/me/rida/anticheat/detections/Check.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fiona/src/cc/funkemunky/fiona/detections/CheckManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/Fiona/src/me/rida/anticheat/detections/CheckManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fiona/src/cc/funkemunky/fiona/detections/CheckType.java" beforeDir="false" afterPath="$PROJECT_DIR$/Fiona/src/me/rida/anticheat/detections/CheckType.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fiona/src/cc/funkemunky/fiona/detections/Detection.java" beforeDir="false" afterPath="$PROJECT_DIR$/Fiona/src/me/rida/anticheat/detections/Detection.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fiona/src/cc/funkemunky/fiona/detections/combat/aimassist/AimPattern.java" beforeDir="false" afterPath="$PROJECT_DIR$/Fiona/src/me/rida/anticheat/detections/combat/aimassist/AimPattern.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fiona/src/cc/funkemunky/fiona/detections/combat/aimassist/detections/TypeA.java" beforeDir="false" afterPath="$PROJECT_DIR$/Fiona/src/me/rida/anticheat/detections/combat/aimassist/detections/TypeA.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fiona/src/cc/funkemunky/fiona/detections/combat/aimassist/detections/TypeB.java" beforeDir="false" afterPath="$PROJECT_DIR$/Fiona/src/me/rida/anticheat/detections/combat/aimassist/detections/TypeB.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fiona/src/cc/funkemunky/fiona/detections/combat/aimassist/detections/TypeC.java" beforeDir="false" afterPath="$PROJECT_DIR$/Fiona/src/me/rida/anticheat/detections/combat/aimassist/detections/TypeC.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fiona/src/cc/funkemunky/fiona/detections/combat/aimassist/detections/TypeD.java" beforeDir="false" afterPath="$PROJECT_DIR$/Fiona/src/me/rida/anticheat/detections/combat/aimassist/detections/TypeD.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fiona/src/cc/funkemunky/fiona/detections/combat/autoclicker/AutoClicker.java" beforeDir="false" afterPath="$PROJECT_DIR$/Fiona/src/me/rida/anticheat/detections/combat/autoclicker/AutoClicker.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fiona/src/cc/funkemunky/fiona/detections/combat/autoclicker/detections/TypeA.java" beforeDir="false" afterPath="$PROJECT_DIR$/Fiona/src/me/rida/anticheat/detections/combat/autoclicker/detections/TypeA.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fiona/src/cc/funkemunky/fiona/detections/combat/autoclicker/detections/TypeB.java" beforeDir="false" afterPath="$PROJECT_DIR$/Fiona/src/me/rida/anticheat/detections/combat/autoclicker/detections/TypeB.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fiona/src/cc/funkemunky/fiona/detections/combat/autoclicker/detections/TypeC.java" beforeDir="false" afterPath="$PROJECT_DIR$/Fiona/src/me/rida/anticheat/detections/combat/autoclicker/detections/TypeC.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fiona/src/cc/funkemunky/fiona/detections/combat/criticals/Criticals.java" beforeDir="false" afterPath="$PROJECT_DIR$/Fiona/src/me/rida/anticheat/detections/combat/criticals/Criticals.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fiona/src/cc/funkemunky/fiona/detections/combat/criticals/detections/TypeA.java" beforeDir="false" afterPath="$PROJECT_DIR$/Fiona/src/me/rida/anticheat/detections/combat/criticals/detections/TypeA.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fiona/src/cc/funkemunky/fiona/detections/combat/criticals/detections/TypeB.java" beforeDir="false" afterPath="$PROJECT_DIR$/Fiona/src/me/rida/anticheat/detections/combat/criticals/detections/TypeB.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fiona/src/cc/funkemunky/fiona/detections/combat/criticals/detections/TypeC.java" beforeDir="false" afterPath="$PROJECT_DIR$/Fiona/src/me/rida/anticheat/detections/combat/criticals/detections/TypeC.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fiona/src/cc/funkemunky/fiona/detections/combat/fastbow/Fastbow.java" beforeDir="false" afterPath="$PROJECT_DIR$/Fiona/src/me/rida/anticheat/detections/combat/fastbow/Fastbow.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fiona/src/cc/funkemunky/fiona/detections/combat/fastbow/detections/TypeA.java" beforeDir="false" afterPath="$PROJECT_DIR$/Fiona/src/me/rida/anticheat/detections/combat/fastbow/detections/TypeA.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fiona/src/cc/funkemunky/fiona/detections/combat/killaura/KillAura.java" beforeDir="false" afterPath="$PROJECT_DIR$/Fiona/src/me/rida/anticheat/detections/combat/killaura/KillAura.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fiona/src/cc/funkemunky/fiona/detections/combat/killaura/detections/TypeA.java" beforeDir="false" afterPath="$PROJECT_DIR$/Fiona/src/me/rida/anticheat/detections/combat/killaura/detections/TypeA.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fiona/src/cc/funkemunky/fiona/detections/combat/killaura/detections/TypeB.java" beforeDir="false" afterPath="$PROJECT_DIR$/Fiona/src/me/rida/anticheat/detections/combat/killaura/detections/TypeB.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fiona/src/cc/funkemunky/fiona/detections/combat/killaura/detections/TypeC.java" beforeDir="false" afterPath="$PROJECT_DIR$/Fiona/src/me/rida/anticheat/detections/combat/killaura/detections/TypeC.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fiona/src/cc/funkemunky/fiona/detections/combat/killaura/detections/TypeD.java" beforeDir="false" afterPath="$PROJECT_DIR$/Fiona/src/me/rida/anticheat/detections/combat/killaura/detections/TypeD.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fiona/src/cc/funkemunky/fiona/detections/combat/killaura/detections/TypeE.java" beforeDir="false" afterPath="$PROJECT_DIR$/Fiona/src/me/rida/anticheat/detections/combat/killaura/detections/TypeE.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fiona/src/cc/funkemunky/fiona/detections/combat/killaura/detections/TypeF1_7.java" beforeDir="false" afterPath="$PROJECT_DIR$/Fiona/src/me/rida/anticheat/detections/combat/killaura/detections/TypeF1_7.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fiona/src/cc/funkemunky/fiona/detections/combat/killaura/detections/TypeF1_8.java" beforeDir="false" afterPath="$PROJECT_DIR$/Fiona/src/me/rida/anticheat/detections/combat/killaura/detections/TypeF1_8.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fiona/src/cc/funkemunky/fiona/detections/combat/killaura/detections/TypeG.java" beforeDir="false" afterPath="$PROJECT_DIR$/Fiona/src/me/rida/anticheat/detections/combat/killaura/detections/TypeG.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fiona/src/cc/funkemunky/fiona/detections/combat/killaura/detections/TypeH.java" beforeDir="false" afterPath="$PROJECT_DIR$/Fiona/src/me/rida/anticheat/detections/combat/killaura/detections/TypeH.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fiona/src/cc/funkemunky/fiona/detections/combat/killaura/detections/TypeI.java" beforeDir="false" afterPath="$PROJECT_DIR$/Fiona/src/me/rida/anticheat/detections/combat/killaura/detections/TypeI.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fiona/src/cc/funkemunky/fiona/detections/combat/killaura/detections/TypeJ.java" beforeDir="false" afterPath="$PROJECT_DIR$/Fiona/src/me/rida/anticheat/detections/combat/killaura/detections/TypeJ.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fiona/src/cc/funkemunky/fiona/detections/combat/killaura/detections/TypeK.java" beforeDir="false" afterPath="$PROJECT_DIR$/Fiona/src/me/rida/anticheat/detections/combat/killaura/detections/TypeK.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fiona/src/cc/funkemunky/fiona/detections/combat/reach/Reach.java" beforeDir="false" afterPath="$PROJECT_DIR$/Fiona/src/me/rida/anticheat/detections/combat/reach/Reach.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fiona/src/cc/funkemunky/fiona/detections/combat/reach/detections/TypeA.java" beforeDir="false" afterPath="$PROJECT_DIR$/Fiona/src/me/rida/anticheat/detections/combat/reach/detections/TypeA.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fiona/src/cc/funkemunky/fiona/detections/combat/reach/detections/TypeB.java" beforeDir="false" afterPath="$PROJECT_DIR$/Fiona/src/me/rida/anticheat/detections/combat/reach/detections/TypeB.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fiona/src/cc/funkemunky/fiona/detections/movement/fly/Fly.java" beforeDir="false" afterPath="$PROJECT_DIR$/Fiona/src/me/rida/anticheat/detections/movement/fly/Fly.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fiona/src/cc/funkemunky/fiona/detections/movement/fly/detections/TypeA.java" beforeDir="false" afterPath="$PROJECT_DIR$/Fiona/src/me/rida/anticheat/detections/movement/fly/detections/TypeA.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fiona/src/cc/funkemunky/fiona/detections/movement/fly/detections/TypeB.java" beforeDir="false" afterPath="$PROJECT_DIR$/Fiona/src/me/rida/anticheat/detections/movement/fly/detections/TypeB.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fiona/src/cc/funkemunky/fiona/detections/movement/fly/detections/TypeC.java" beforeDir="false" afterPath="$PROJECT_DIR$/Fiona/src/me/rida/anticheat/detections/movement/fly/detections/TypeC.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fiona/src/cc/funkemunky/fiona/detections/movement/fly/detections/TypeD.java" beforeDir="false" afterPath="$PROJECT_DIR$/Fiona/src/me/rida/anticheat/detections/movement/fly/detections/TypeD.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fiona/src/cc/funkemunky/fiona/detections/movement/fly/detections/TypeE.java" beforeDir="false" afterPath="$PROJECT_DIR$/Fiona/src/me/rida/anticheat/detections/movement/fly/detections/TypeE.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fiona/src/cc/funkemunky/fiona/detections/movement/fly/detections/TypeF.java" beforeDir="false" afterPath="$PROJECT_DIR$/Fiona/src/me/rida/anticheat/detections/movement/fly/detections/TypeF.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fiona/src/cc/funkemunky/fiona/detections/movement/fly/detections/TypeG.java" beforeDir="false" afterPath="$PROJECT_DIR$/Fiona/src/me/rida/anticheat/detections/movement/fly/detections/TypeG.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fiona/src/cc/funkemunky/fiona/detections/movement/fly/detections/TypeH.java" beforeDir="false" afterPath="$PROJECT_DIR$/Fiona/src/me/rida/anticheat/detections/movement/fly/detections/TypeH.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fiona/src/cc/funkemunky/fiona/detections/movement/jesus/Jesus.java" beforeDir="false" afterPath="$PROJECT_DIR$/Fiona/src/me/rida/anticheat/detections/movement/jesus/Jesus.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fiona/src/cc/funkemunky/fiona/detections/movement/jesus/detections/TypeA.java" beforeDir="false" afterPath="$PROJECT_DIR$/Fiona/src/me/rida/anticheat/detections/movement/jesus/detections/TypeA.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fiona/src/cc/funkemunky/fiona/detections/movement/jesus/detections/TypeB.java" beforeDir="false" afterPath="$PROJECT_DIR$/Fiona/src/me/rida/anticheat/detections/movement/jesus/detections/TypeB.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fiona/src/cc/funkemunky/fiona/detections/movement/nofall/NoFall.java" beforeDir="false" afterPath="$PROJECT_DIR$/Fiona/src/me/rida/anticheat/detections/movement/nofall/NoFall.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fiona/src/cc/funkemunky/fiona/detections/movement/nofall/detections/TypeA.java" beforeDir="false" afterPath="$PROJECT_DIR$/Fiona/src/me/rida/anticheat/detections/movement/nofall/detections/TypeA.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fiona/src/cc/funkemunky/fiona/detections/movement/nofall/detections/TypeB.java" beforeDir="false" afterPath="$PROJECT_DIR$/Fiona/src/me/rida/anticheat/detections/movement/nofall/detections/TypeB.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fiona/src/cc/funkemunky/fiona/detections/movement/nofall/detections/TypeC.java" beforeDir="false" afterPath="$PROJECT_DIR$/Fiona/src/me/rida/anticheat/detections/movement/nofall/detections/TypeC.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fiona/src/cc/funkemunky/fiona/detections/movement/nofall/detections/TypeD.java" beforeDir="false" afterPath="$PROJECT_DIR$/Fiona/src/me/rida/anticheat/detections/movement/nofall/detections/TypeD.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fiona/src/cc/funkemunky/fiona/detections/movement/noslowdown/NoSlowdown.java" beforeDir="false" afterPath="$PROJECT_DIR$/Fiona/src/me/rida/anticheat/detections/movement/noslowdown/NoSlowdown.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fiona/src/cc/funkemunky/fiona/detections/movement/noslowdown/detections/TypeA.java" beforeDir="false" afterPath="$PROJECT_DIR$/Fiona/src/me/rida/anticheat/detections/movement/noslowdown/detections/TypeA.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fiona/src/cc/funkemunky/fiona/detections/movement/noslowdown/detections/TypeB.java" beforeDir="false" afterPath="$PROJECT_DIR$/Fiona/src/me/rida/anticheat/detections/movement/noslowdown/detections/TypeB.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fiona/src/cc/funkemunky/fiona/detections/movement/noslowdown/detections/TypeC.java" beforeDir="false" afterPath="$PROJECT_DIR$/Fiona/src/me/rida/anticheat/detections/movement/noslowdown/detections/TypeC.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fiona/src/cc/funkemunky/fiona/detections/movement/speed/Speed.java" beforeDir="false" afterPath="$PROJECT_DIR$/Fiona/src/me/rida/anticheat/detections/movement/speed/Speed.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fiona/src/cc/funkemunky/fiona/detections/movement/speed/detections/TypeA.java" beforeDir="false" afterPath="$PROJECT_DIR$/Fiona/src/me/rida/anticheat/detections/movement/speed/detections/TypeA.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fiona/src/cc/funkemunky/fiona/detections/movement/speed/detections/TypeB.java" beforeDir="false" afterPath="$PROJECT_DIR$/Fiona/src/me/rida/anticheat/detections/movement/speed/detections/TypeB.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fiona/src/cc/funkemunky/fiona/detections/movement/speed/detections/TypeC.java" beforeDir="false" afterPath="$PROJECT_DIR$/Fiona/src/me/rida/anticheat/detections/movement/speed/detections/TypeC.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fiona/src/cc/funkemunky/fiona/detections/movement/speed/detections/TypeD.java" beforeDir="false" afterPath="$PROJECT_DIR$/Fiona/src/me/rida/anticheat/detections/movement/speed/detections/TypeD.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fiona/src/cc/funkemunky/fiona/detections/movement/sprint/Sprint.java" beforeDir="false" afterPath="$PROJECT_DIR$/Fiona/src/me/rida/anticheat/detections/movement/sprint/Sprint.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fiona/src/cc/funkemunky/fiona/detections/movement/sprint/detections/TypeA.java" beforeDir="false" afterPath="$PROJECT_DIR$/Fiona/src/me/rida/anticheat/detections/movement/sprint/detections/TypeA.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fiona/src/cc/funkemunky/fiona/detections/movement/step/Step.java" beforeDir="false" afterPath="$PROJECT_DIR$/Fiona/src/me/rida/anticheat/detections/movement/step/Step.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fiona/src/cc/funkemunky/fiona/detections/movement/step/detections/TypeA.java" beforeDir="false" afterPath="$PROJECT_DIR$/Fiona/src/me/rida/anticheat/detections/movement/step/detections/TypeA.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fiona/src/cc/funkemunky/fiona/detections/movement/step/detections/TypeB.java" beforeDir="false" afterPath="$PROJECT_DIR$/Fiona/src/me/rida/anticheat/detections/movement/step/detections/TypeB.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fiona/src/cc/funkemunky/fiona/detections/movement/step/detections/TypeC.java" beforeDir="false" afterPath="$PROJECT_DIR$/Fiona/src/me/rida/anticheat/detections/movement/step/detections/TypeC.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fiona/src/cc/funkemunky/fiona/detections/player/badpackets/BadPackets.java" beforeDir="false" afterPath="$PROJECT_DIR$/Fiona/src/me/rida/anticheat/detections/player/badpackets/BadPackets.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fiona/src/cc/funkemunky/fiona/detections/player/badpackets/detections/TypeA.java" beforeDir="false" afterPath="$PROJECT_DIR$/Fiona/src/me/rida/anticheat/detections/player/badpackets/detections/TypeA.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fiona/src/cc/funkemunky/fiona/detections/player/badpackets/detections/TypeC.java" beforeDir="false" afterPath="$PROJECT_DIR$/Fiona/src/me/rida/anticheat/detections/player/badpackets/detections/TypeC.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fiona/src/cc/funkemunky/fiona/detections/player/badpackets/detections/TypeD.java" beforeDir="false" afterPath="$PROJECT_DIR$/Fiona/src/me/rida/anticheat/detections/player/badpackets/detections/TypeD.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fiona/src/cc/funkemunky/fiona/detections/player/badpackets/detections/TypeE.java" beforeDir="false" afterPath="$PROJECT_DIR$/Fiona/src/me/rida/anticheat/detections/player/badpackets/detections/TypeE.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fiona/src/cc/funkemunky/fiona/detections/player/badpackets/detections/TypeF.java" beforeDir="false" afterPath="$PROJECT_DIR$/Fiona/src/me/rida/anticheat/detections/player/badpackets/detections/TypeF.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fiona/src/cc/funkemunky/fiona/detections/player/badpackets/detections/TypeG.java" beforeDir="false" afterPath="$PROJECT_DIR$/Fiona/src/me/rida/anticheat/detections/player/badpackets/detections/TypeG.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fiona/src/cc/funkemunky/fiona/detections/player/badpackets/detections/TypeH.java" beforeDir="false" afterPath="$PROJECT_DIR$/Fiona/src/me/rida/anticheat/detections/player/badpackets/detections/TypeH.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fiona/src/cc/funkemunky/fiona/detections/player/inventory/Inventory.java" beforeDir="false" afterPath="$PROJECT_DIR$/Fiona/src/me/rida/anticheat/detections/player/inventory/Inventory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fiona/src/cc/funkemunky/fiona/detections/player/inventory/detections/TypeA.java" beforeDir="false" afterPath="$PROJECT_DIR$/Fiona/src/me/rida/anticheat/detections/player/inventory/detections/TypeA.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fiona/src/cc/funkemunky/fiona/detections/player/inventory/detections/TypeB.java" beforeDir="false" afterPath="$PROJECT_DIR$/Fiona/src/me/rida/anticheat/detections/player/inventory/detections/TypeB.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fiona/src/cc/funkemunky/fiona/detections/player/inventory/detections/TypeC.java" beforeDir="false" afterPath="$PROJECT_DIR$/Fiona/src/me/rida/anticheat/detections/player/inventory/detections/TypeC.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fiona/src/cc/funkemunky/fiona/detections/player/regen/Regen.java" beforeDir="false" afterPath="$PROJECT_DIR$/Fiona/src/me/rida/anticheat/detections/player/regen/Regen.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fiona/src/cc/funkemunky/fiona/detections/player/regen/detections/TypeA.java" beforeDir="false" afterPath="$PROJECT_DIR$/Fiona/src/me/rida/anticheat/detections/player/regen/detections/TypeA.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fiona/src/cc/funkemunky/fiona/detections/player/selfhit/SelfHit.java" beforeDir="false" afterPath="$PROJECT_DIR$/Fiona/src/me/rida/anticheat/detections/player/selfhit/SelfHit.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fiona/src/cc/funkemunky/fiona/detections/player/selfhit/detections/TypeA.java" beforeDir="false" afterPath="$PROJECT_DIR$/Fiona/src/me/rida/anticheat/detections/player/selfhit/detections/TypeA.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fiona/src/cc/funkemunky/fiona/detections/player/selfhit/detections/TypeB.java" beforeDir="false" afterPath="$PROJECT_DIR$/Fiona/src/me/rida/anticheat/detections/player/selfhit/detections/TypeB.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fiona/src/cc/funkemunky/fiona/detections/player/velocity/Velocity.java" beforeDir="false" afterPath="$PROJECT_DIR$/Fiona/src/me/rida/anticheat/detections/player/velocity/Velocity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fiona/src/cc/funkemunky/fiona/detections/player/velocity/detections/TypeA.java" beforeDir="false" afterPath="$PROJECT_DIR$/Fiona/src/me/rida/anticheat/detections/player/velocity/detections/TypeA.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fiona/src/cc/funkemunky/fiona/detections/player/velocity/detections/TypeB.java" beforeDir="false" afterPath="$PROJECT_DIR$/Fiona/src/me/rida/anticheat/detections/player/velocity/detections/TypeB.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fiona/src/cc/funkemunky/fiona/detections/world/block/Block.java" beforeDir="false" afterPath="$PROJECT_DIR$/Fiona/src/me/rida/anticheat/detections/world/block/Block.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fiona/src/cc/funkemunky/fiona/detections/world/block/detections/FastBreak1_8.java" beforeDir="false" afterPath="$PROJECT_DIR$/Fiona/src/me/rida/anticheat/detections/world/block/detections/FastBreak1_8.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fiona/src/cc/funkemunky/fiona/detections/world/block/detections/FastBreak1_9.java" beforeDir="false" afterPath="$PROJECT_DIR$/Fiona/src/me/rida/anticheat/detections/world/block/detections/FastBreak1_9.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fiona/src/cc/funkemunky/fiona/detections/world/hand/Hand.java" beforeDir="false" afterPath="$PROJECT_DIR$/Fiona/src/me/rida/anticheat/detections/world/hand/Hand.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fiona/src/cc/funkemunky/fiona/detections/world/hand/detections/TypeA.java" beforeDir="false" afterPath="$PROJECT_DIR$/Fiona/src/me/rida/anticheat/detections/world/hand/detections/TypeA.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fiona/src/cc/funkemunky/fiona/detections/world/hand/detections/TypeB.java" beforeDir="false" afterPath="$PROJECT_DIR$/Fiona/src/me/rida/anticheat/detections/world/hand/detections/TypeB.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fiona/src/cc/funkemunky/fiona/detections/world/scaffold/Scaffold.java" beforeDir="false" afterPath="$PROJECT_DIR$/Fiona/src/me/rida/anticheat/detections/world/scaffold/Scaffold.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fiona/src/cc/funkemunky/fiona/detections/world/scaffold/detections/TypeA.java" beforeDir="false" afterPath="$PROJECT_DIR$/Fiona/src/me/rida/anticheat/detections/world/scaffold/detections/TypeA.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fiona/src/cc/funkemunky/fiona/detections/world/scaffold/detections/TypeB.java" beforeDir="false" afterPath="$PROJECT_DIR$/Fiona/src/me/rida/anticheat/detections/world/scaffold/detections/TypeB.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fiona/src/cc/funkemunky/fiona/detections/world/scaffold/detections/TypeC.java" beforeDir="false" afterPath="$PROJECT_DIR$/Fiona/src/me/rida/anticheat/detections/world/scaffold/detections/TypeC.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fiona/src/cc/funkemunky/fiona/detections/world/scaffold/detections/TypeD.java" beforeDir="false" afterPath="$PROJECT_DIR$/Fiona/src/me/rida/anticheat/detections/world/scaffold/detections/TypeD.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fiona/src/cc/funkemunky/fiona/events/bukkit/CancerListeners.java" beforeDir="false" afterPath="$PROJECT_DIR$/Fiona/src/me/rida/anticheat/events/bukkit/CancerListeners.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fiona/src/cc/funkemunky/fiona/events/bukkit/DataEvents.java" beforeDir="false" afterPath="$PROJECT_DIR$/Fiona/src/me/rida/anticheat/events/bukkit/DataEvents.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fiona/src/cc/funkemunky/fiona/events/bukkit/PlayerConnectListeners.java" beforeDir="false" afterPath="$PROJECT_DIR$/Fiona/src/me/rida/anticheat/events/bukkit/PlayerConnectListeners.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fiona/src/cc/funkemunky/fiona/events/custom/FionaAlertEvent.java" beforeDir="false" afterPath="$PROJECT_DIR$/Fiona/src/me/rida/anticheat/events/custom/FionaAlertEvent.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fiona/src/cc/funkemunky/fiona/events/custom/FionaCancelEvent.java" beforeDir="false" afterPath="$PROJECT_DIR$/Fiona/src/me/rida/anticheat/events/custom/FionaCancelEvent.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fiona/src/cc/funkemunky/fiona/events/custom/FionaCheatEvent.java" beforeDir="false" afterPath="$PROJECT_DIR$/Fiona/src/me/rida/anticheat/events/custom/FionaCheatEvent.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fiona/src/cc/funkemunky/fiona/events/custom/FionaFallCorrectionEvent.java" beforeDir="false" afterPath="$PROJECT_DIR$/Fiona/src/me/rida/anticheat/events/custom/FionaFallCorrectionEvent.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fiona/src/cc/funkemunky/fiona/events/custom/FionaPunishEvent.java" beforeDir="false" afterPath="$PROJECT_DIR$/Fiona/src/me/rida/anticheat/events/custom/FionaPunishEvent.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fiona/src/cc/funkemunky/fiona/events/custom/PacketArmSwingEvent.java" beforeDir="false" afterPath="$PROJECT_DIR$/Fiona/src/me/rida/anticheat/events/custom/PacketArmSwingEvent.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fiona/src/cc/funkemunky/fiona/events/custom/PacketAttackEvent.java" beforeDir="false" afterPath="$PROJECT_DIR$/Fiona/src/me/rida/anticheat/events/custom/PacketAttackEvent.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fiona/src/cc/funkemunky/fiona/events/custom/PacketFunkeMoveEvent.java" beforeDir="false" afterPath="$PROJECT_DIR$/Fiona/src/me/rida/anticheat/events/custom/PacketFunkeMoveEvent.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fiona/src/cc/funkemunky/fiona/events/custom/PacketInvClickEvent.java" beforeDir="false" afterPath="$PROJECT_DIR$/Fiona/src/me/rida/anticheat/events/custom/PacketInvClickEvent.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fiona/src/cc/funkemunky/fiona/events/custom/PacketRecieveEvent.java" beforeDir="false" afterPath="$PROJECT_DIR$/Fiona/src/me/rida/anticheat/events/custom/PacketRecieveEvent.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fiona/src/cc/funkemunky/fiona/events/custom/PacketSendEvent.java" beforeDir="false" afterPath="$PROJECT_DIR$/Fiona/src/me/rida/anticheat/events/custom/PacketSendEvent.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fiona/src/cc/funkemunky/fiona/events/system/Cancellable.java" beforeDir="false" afterPath="$PROJECT_DIR$/Fiona/src/me/rida/anticheat/events/system/Cancellable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fiona/src/cc/funkemunky/fiona/events/system/Event.java" beforeDir="false" afterPath="$PROJECT_DIR$/Fiona/src/me/rida/anticheat/events/system/Event.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fiona/src/cc/funkemunky/fiona/events/system/EventManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/Fiona/src/me/rida/anticheat/events/system/EventManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fiona/src/cc/funkemunky/fiona/events/system/EventMethod.java" beforeDir="false" afterPath="$PROJECT_DIR$/Fiona/src/me/rida/anticheat/events/system/EventMethod.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fiona/src/cc/funkemunky/fiona/events/system/Listener.java" beforeDir="false" afterPath="$PROJECT_DIR$/Fiona/src/me/rida/anticheat/events/system/Listener.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fiona/src/cc/funkemunky/fiona/profiling/BaseProfiler.java" beforeDir="false" afterPath="$PROJECT_DIR$/Fiona/src/me/rida/anticheat/profiling/BaseProfiler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fiona/src/cc/funkemunky/fiona/profiling/Profiler.java" beforeDir="false" afterPath="$PROJECT_DIR$/Fiona/src/me/rida/anticheat/profiling/Profiler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fiona/src/cc/funkemunky/fiona/profiling/ToggleableProfiler.java" beforeDir="false" afterPath="$PROJECT_DIR$/Fiona/src/me/rida/anticheat/profiling/ToggleableProfiler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fiona/src/cc/funkemunky/fiona/utils/BlockUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/Fiona/src/me/rida/anticheat/utils/BlockUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fiona/src/cc/funkemunky/fiona/utils/BoundingBox.java" beforeDir="false" afterPath="$PROJECT_DIR$/Fiona/src/me/rida/anticheat/utils/BoundingBox.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fiona/src/cc/funkemunky/fiona/utils/BoxDebugType.java" beforeDir="false" afterPath="$PROJECT_DIR$/Fiona/src/me/rida/anticheat/utils/BoxDebugType.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fiona/src/cc/funkemunky/fiona/utils/Color.java" beforeDir="false" afterPath="$PROJECT_DIR$/Fiona/src/me/rida/anticheat/utils/Color.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fiona/src/cc/funkemunky/fiona/utils/Config.java" beforeDir="false" afterPath="$PROJECT_DIR$/Fiona/src/me/rida/anticheat/utils/Config.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fiona/src/cc/funkemunky/fiona/utils/FionaLocation.java" beforeDir="false" afterPath="$PROJECT_DIR$/Fiona/src/me/rida/anticheat/utils/FionaLocation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fiona/src/cc/funkemunky/fiona/utils/FunkeFile.java" beforeDir="false" afterPath="$PROJECT_DIR$/Fiona/src/me/rida/anticheat/utils/FunkeFile.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fiona/src/cc/funkemunky/fiona/utils/JsonMessage.java" beforeDir="false" afterPath="$PROJECT_DIR$/Fiona/src/me/rida/anticheat/utils/JsonMessage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fiona/src/cc/funkemunky/fiona/utils/MathHelper.java" beforeDir="false" afterPath="$PROJECT_DIR$/Fiona/src/me/rida/anticheat/utils/MathHelper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fiona/src/cc/funkemunky/fiona/utils/MathUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/Fiona/src/me/rida/anticheat/utils/MathUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fiona/src/cc/funkemunky/fiona/utils/Messages.java" beforeDir="false" afterPath="$PROJECT_DIR$/Fiona/src/me/rida/anticheat/utils/Messages.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fiona/src/cc/funkemunky/fiona/utils/MiscUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/Fiona/src/me/rida/anticheat/utils/MiscUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fiona/src/cc/funkemunky/fiona/utils/MoveData.java" beforeDir="false" afterPath="$PROJECT_DIR$/Fiona/src/me/rida/anticheat/utils/MoveData.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fiona/src/cc/funkemunky/fiona/utils/PlayerTimer.java" beforeDir="false" afterPath="$PROJECT_DIR$/Fiona/src/me/rida/anticheat/utils/PlayerTimer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fiona/src/cc/funkemunky/fiona/utils/PlayerUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/Fiona/src/me/rida/anticheat/utils/PlayerUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fiona/src/cc/funkemunky/fiona/utils/ReflectionsUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/Fiona/src/me/rida/anticheat/utils/ReflectionsUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fiona/src/cc/funkemunky/fiona/utils/Verbose.java" beforeDir="false" afterPath="$PROJECT_DIR$/Fiona/src/me/rida/anticheat/utils/Verbose.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fiona/src/cc/funkemunky/fiona/utils/Violation.java" beforeDir="false" afterPath="$PROJECT_DIR$/Fiona/src/me/rida/anticheat/utils/Violation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fiona/src/cc/funkemunky/fiona/utils/blockbox/BlockBox.java" beforeDir="false" afterPath="$PROJECT_DIR$/Fiona/src/me/rida/anticheat/utils/blockbox/BlockBox.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fiona/src/cc/funkemunky/fiona/utils/blockbox/BlockBoxManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/Fiona/src/me/rida/anticheat/utils/blockbox/BlockBoxManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fiona/src/cc/funkemunky/fiona/utils/blockbox/CollisionAssessment.java" beforeDir="false" afterPath="$PROJECT_DIR$/Fiona/src/me/rida/anticheat/utils/blockbox/CollisionAssessment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fiona/src/cc/funkemunky/fiona/utils/blockbox/boxes/BlockBox1_10_R1.java" beforeDir="false" afterPath="$PROJECT_DIR$/Fiona/src/me/rida/anticheat/utils/blockbox/boxes/BlockBox1_10_R1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fiona/src/cc/funkemunky/fiona/utils/blockbox/boxes/BlockBox1_11_R1.java" beforeDir="false" afterPath="$PROJECT_DIR$/Fiona/src/me/rida/anticheat/utils/blockbox/boxes/BlockBox1_11_R1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fiona/src/cc/funkemunky/fiona/utils/blockbox/boxes/BlockBox1_12_R1.java" beforeDir="false" afterPath="$PROJECT_DIR$/Fiona/src/me/rida/anticheat/utils/blockbox/boxes/BlockBox1_12_R1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fiona/src/cc/funkemunky/fiona/utils/blockbox/boxes/BlockBox1_13_R1.java" beforeDir="false" afterPath="$PROJECT_DIR$/Fiona/src/me/rida/anticheat/utils/blockbox/boxes/BlockBox1_13_R1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fiona/src/cc/funkemunky/fiona/utils/blockbox/boxes/BlockBox1_13_R2.java" beforeDir="false" afterPath="$PROJECT_DIR$/Fiona/src/me/rida/anticheat/utils/blockbox/boxes/BlockBox1_13_R2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fiona/src/cc/funkemunky/fiona/utils/blockbox/boxes/BlockBox1_7_R4.java" beforeDir="false" afterPath="$PROJECT_DIR$/Fiona/src/me/rida/anticheat/utils/blockbox/boxes/BlockBox1_7_R4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fiona/src/cc/funkemunky/fiona/utils/blockbox/boxes/BlockBox1_8_R1.java" beforeDir="false" afterPath="$PROJECT_DIR$/Fiona/src/me/rida/anticheat/utils/blockbox/boxes/BlockBox1_8_R1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fiona/src/cc/funkemunky/fiona/utils/blockbox/boxes/BlockBox1_8_R2.java" beforeDir="false" afterPath="$PROJECT_DIR$/Fiona/src/me/rida/anticheat/utils/blockbox/boxes/BlockBox1_8_R2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fiona/src/cc/funkemunky/fiona/utils/blockbox/boxes/BlockBox1_8_R3.java" beforeDir="false" afterPath="$PROJECT_DIR$/Fiona/src/me/rida/anticheat/utils/blockbox/boxes/BlockBox1_8_R3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fiona/src/cc/funkemunky/fiona/utils/blockbox/boxes/BlockBox1_9_R1.java" beforeDir="false" afterPath="$PROJECT_DIR$/Fiona/src/me/rida/anticheat/utils/blockbox/boxes/BlockBox1_9_R1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fiona/src/cc/funkemunky/fiona/utils/blockbox/boxes/BlockBox1_9_R2.java" beforeDir="false" afterPath="$PROJECT_DIR$/Fiona/src/me/rida/anticheat/utils/blockbox/boxes/BlockBox1_9_R2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fiona/src/cc/funkemunky/fiona/utils/gui/GUI.java" beforeDir="false" afterPath="$PROJECT_DIR$/Fiona/src/me/rida/anticheat/utils/gui/GUI.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fiona/src/cc/funkemunky/fiona/utils/gui/GUIManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/Fiona/src/me/rida/anticheat/utils/gui/GUIManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fiona/src/cc/funkemunky/fiona/utils/gui/ItemAnimation.java" beforeDir="false" afterPath="$PROJECT_DIR$/Fiona/src/me/rida/anticheat/utils/gui/ItemAnimation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fiona/src/cc/funkemunky/fiona/utils/math/Average.java" beforeDir="false" afterPath="$PROJECT_DIR$/Fiona/src/me/rida/anticheat/utils/math/Average.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fiona/src/cc/funkemunky/fiona/utils/math/DynamicRollingAverage.java" beforeDir="false" afterPath="$PROJECT_DIR$/Fiona/src/me/rida/anticheat/utils/math/DynamicRollingAverage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fiona/src/cc/funkemunky/fiona/utils/math/MCSmooth.java" beforeDir="false" afterPath="$PROJECT_DIR$/Fiona/src/me/rida/anticheat/utils/math/MCSmooth.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fiona/src/cc/funkemunky/fiona/utils/math/RayTrace.java" beforeDir="false" afterPath="$PROJECT_DIR$/Fiona/src/me/rida/anticheat/utils/math/RayTrace.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fiona/src/cc/funkemunky/fiona/utils/math/RollingAverage.java" beforeDir="false" afterPath="$PROJECT_DIR$/Fiona/src/me/rida/anticheat/utils/math/RollingAverage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fiona/src/cc/funkemunky/fiona/utils/math/RollingAverageDouble.java" beforeDir="false" afterPath="$PROJECT_DIR$/Fiona/src/me/rida/anticheat/utils/math/RollingAverageDouble.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fiona/src/cc/funkemunky/fiona/utils/math/RollingAverageLong.java" beforeDir="false" afterPath="$PROJECT_DIR$/Fiona/src/me/rida/anticheat/utils/math/RollingAverageLong.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fiona/src/cc/funkemunky/fiona/utils/math/StatisticalAnalysis.java" beforeDir="false" afterPath="$PROJECT_DIR$/Fiona/src/me/rida/anticheat/utils/math/StatisticalAnalysis.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fiona/src/com/ngxdev/tinyprotocol/api/AbstractTinyProtocol.java" beforeDir="false" afterPath="$PROJECT_DIR$/Fiona/src/me/rida/tinyprotocol/api/AbstractTinyProtocol.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fiona/src/com/ngxdev/tinyprotocol/api/NMSObject.java" beforeDir="false" afterPath="$PROJECT_DIR$/Fiona/src/me/rida/tinyprotocol/api/NMSObject.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fiona/src/com/ngxdev/tinyprotocol/api/Packet.java" beforeDir="false" afterPath="$PROJECT_DIR$/Fiona/src/me/rida/tinyprotocol/api/Packet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fiona/src/com/ngxdev/tinyprotocol/api/ProtocolVersion.java" beforeDir="false" afterPath="$PROJECT_DIR$/Fiona/src/me/rida/tinyprotocol/api/ProtocolVersion.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fiona/src/com/ngxdev/tinyprotocol/api/TinyProtocol1_7.java" beforeDir="false" afterPath="$PROJECT_DIR$/Fiona/src/me/rida/tinyprotocol/api/TinyProtocol1_7.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fiona/src/com/ngxdev/tinyprotocol/api/TinyProtocol1_8.java" beforeDir="false" afterPath="$PROJECT_DIR$/Fiona/src/me/rida/tinyprotocol/api/TinyProtocol1_8.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fiona/src/com/ngxdev/tinyprotocol/api/TinyProtocolHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/Fiona/src/me/rida/tinyprotocol/api/TinyProtocolHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fiona/src/com/ngxdev/tinyprotocol/packet/in/WrappedIn13KeepAlive.java" beforeDir="false" afterPath="$PROJECT_DIR$/Fiona/src/me/rida/tinyprotocol/packet/in/WrappedIn13KeepAlive.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fiona/src/com/ngxdev/tinyprotocol/packet/in/WrappedInAbilitiesPacket.java" beforeDir="false" afterPath="$PROJECT_DIR$/Fiona/src/me/rida/tinyprotocol/packet/in/WrappedInAbilitiesPacket.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fiona/src/com/ngxdev/tinyprotocol/packet/in/WrappedInArmAnimationPacket.java" beforeDir="false" afterPath="$PROJECT_DIR$/Fiona/src/me/rida/tinyprotocol/packet/in/WrappedInArmAnimationPacket.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fiona/src/com/ngxdev/tinyprotocol/packet/in/WrappedInBlockDigPacket.java" beforeDir="false" afterPath="$PROJECT_DIR$/Fiona/src/me/rida/tinyprotocol/packet/in/WrappedInBlockDigPacket.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fiona/src/com/ngxdev/tinyprotocol/packet/in/WrappedInBlockPlacePacket.java" beforeDir="false" afterPath="$PROJECT_DIR$/Fiona/src/me/rida/tinyprotocol/packet/in/WrappedInBlockPlacePacket.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fiona/src/com/ngxdev/tinyprotocol/packet/in/WrappedInClientCommandPacket.java" beforeDir="false" afterPath="$PROJECT_DIR$/Fiona/src/me/rida/tinyprotocol/packet/in/WrappedInClientCommandPacket.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fiona/src/com/ngxdev/tinyprotocol/packet/in/WrappedInCloseWindowPacket.java" beforeDir="false" afterPath="$PROJECT_DIR$/Fiona/src/me/rida/tinyprotocol/packet/in/WrappedInCloseWindowPacket.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fiona/src/com/ngxdev/tinyprotocol/packet/in/WrappedInEntityActionPacket.java" beforeDir="false" afterPath="$PROJECT_DIR$/Fiona/src/me/rida/tinyprotocol/packet/in/WrappedInEntityActionPacket.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fiona/src/com/ngxdev/tinyprotocol/packet/in/WrappedInFlyingPacket.java" beforeDir="false" afterPath="$PROJECT_DIR$/Fiona/src/me/rida/tinyprotocol/packet/in/WrappedInFlyingPacket.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fiona/src/com/ngxdev/tinyprotocol/packet/in/WrappedInHeldItemSlotPacket.java" beforeDir="false" afterPath="$PROJECT_DIR$/Fiona/src/me/rida/tinyprotocol/packet/in/WrappedInHeldItemSlotPacket.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fiona/src/com/ngxdev/tinyprotocol/packet/in/WrappedInKeepAlivePacket.java" beforeDir="false" afterPath="$PROJECT_DIR$/Fiona/src/me/rida/tinyprotocol/packet/in/WrappedInKeepAlivePacket.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fiona/src/com/ngxdev/tinyprotocol/packet/in/WrappedInSteerVehiclePacket.java" beforeDir="false" afterPath="$PROJECT_DIR$/Fiona/src/me/rida/tinyprotocol/packet/in/WrappedInSteerVehiclePacket.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fiona/src/com/ngxdev/tinyprotocol/packet/in/WrappedInTransactionPacket.java" beforeDir="false" afterPath="$PROJECT_DIR$/Fiona/src/me/rida/tinyprotocol/packet/in/WrappedInTransactionPacket.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fiona/src/com/ngxdev/tinyprotocol/packet/in/WrappedInUseEntityPacket.java" beforeDir="false" afterPath="$PROJECT_DIR$/Fiona/src/me/rida/tinyprotocol/packet/in/WrappedInUseEntityPacket.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fiona/src/com/ngxdev/tinyprotocol/packet/in/WrappedInVelocityPacket.java" beforeDir="false" afterPath="$PROJECT_DIR$/Fiona/src/me/rida/tinyprotocol/packet/in/WrappedInVelocityPacket.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fiona/src/com/ngxdev/tinyprotocol/packet/in/WrappedInWindowClickPacket.java" beforeDir="false" afterPath="$PROJECT_DIR$/Fiona/src/me/rida/tinyprotocol/packet/in/WrappedInWindowClickPacket.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fiona/src/com/ngxdev/tinyprotocol/packet/out/WrappedOutAbilitiesPacket.java" beforeDir="false" afterPath="$PROJECT_DIR$/Fiona/src/me/rida/tinyprotocol/packet/out/WrappedOutAbilitiesPacket.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fiona/src/com/ngxdev/tinyprotocol/packet/out/WrappedOutBlockChange.java" beforeDir="false" afterPath="$PROJECT_DIR$/Fiona/src/me/rida/tinyprotocol/packet/out/WrappedOutBlockChange.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fiona/src/com/ngxdev/tinyprotocol/packet/out/WrappedOutEntityMetadata.java" beforeDir="false" afterPath="$PROJECT_DIR$/Fiona/src/me/rida/tinyprotocol/packet/out/WrappedOutEntityMetadata.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fiona/src/com/ngxdev/tinyprotocol/packet/out/WrappedOutKeepAlivePacket.java" beforeDir="false" afterPath="$PROJECT_DIR$/Fiona/src/me/rida/tinyprotocol/packet/out/WrappedOutKeepAlivePacket.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fiona/src/com/ngxdev/tinyprotocol/packet/out/WrappedOutNamedEntitySpawn.java" beforeDir="false" afterPath="$PROJECT_DIR$/Fiona/src/me/rida/tinyprotocol/packet/out/WrappedOutNamedEntitySpawn.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fiona/src/com/ngxdev/tinyprotocol/packet/out/WrappedOutPositionPacket.java" beforeDir="false" afterPath="$PROJECT_DIR$/Fiona/src/me/rida/tinyprotocol/packet/out/WrappedOutPositionPacket.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fiona/src/com/ngxdev/tinyprotocol/packet/out/WrappedOutRelativePosition.java" beforeDir="false" afterPath="$PROJECT_DIR$/Fiona/src/me/rida/tinyprotocol/packet/out/WrappedOutRelativePosition.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fiona/src/com/ngxdev/tinyprotocol/packet/out/WrappedOutTransaction.java" beforeDir="false" afterPath="$PROJECT_DIR$/Fiona/src/me/rida/tinyprotocol/packet/out/WrappedOutTransaction.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fiona/src/com/ngxdev/tinyprotocol/packet/out/WrappedOutVelocityPacket.java" beforeDir="false" afterPath="$PROJECT_DIR$/Fiona/src/me/rida/tinyprotocol/packet/out/WrappedOutVelocityPacket.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fiona/src/com/ngxdev/tinyprotocol/packet/out/WrappedPacketPlayOutWorldParticle.java" beforeDir="false" afterPath="$PROJECT_DIR$/Fiona/src/me/rida/tinyprotocol/packet/out/WrappedPacketPlayOutWorldParticle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fiona/src/com/ngxdev/tinyprotocol/packet/types/BaseBlockPosition.java" beforeDir="false" afterPath="$PROJECT_DIR$/Fiona/src/me/rida/tinyprotocol/packet/types/BaseBlockPosition.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fiona/src/com/ngxdev/tinyprotocol/packet/types/EnumDirection.java" beforeDir="false" afterPath="$PROJECT_DIR$/Fiona/src/me/rida/tinyprotocol/packet/types/EnumDirection.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fiona/src/com/ngxdev/tinyprotocol/packet/types/MathHelper.java" beforeDir="false" afterPath="$PROJECT_DIR$/Fiona/src/me/rida/tinyprotocol/packet/types/MathHelper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fiona/src/com/ngxdev/tinyprotocol/packet/types/Vec3D.java" beforeDir="false" afterPath="$PROJECT_DIR$/Fiona/src/me/rida/tinyprotocol/packet/types/Vec3D.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fiona/src/com/ngxdev/tinyprotocol/packet/types/WrappedEnumParticle.java" beforeDir="false" afterPath="$PROJECT_DIR$/Fiona/src/me/rida/tinyprotocol/packet/types/WrappedEnumParticle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fiona/src/com/ngxdev/tinyprotocol/packet/types/WrappedGameProfile.java" beforeDir="false" afterPath="$PROJECT_DIR$/Fiona/src/me/rida/tinyprotocol/packet/types/WrappedGameProfile.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fiona/src/com/ngxdev/tinyprotocol/packet/types/WrappedWatchableObject.java" beforeDir="false" afterPath="$PROJECT_DIR$/Fiona/src/me/rida/tinyprotocol/packet/types/WrappedWatchableObject.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fiona/src/com/ngxdev/tinyprotocol/reflection/ConstructorInvoker.java" beforeDir="false" afterPath="$PROJECT_DIR$/Fiona/src/me/rida/tinyprotocol/reflection/ConstructorInvoker.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fiona/src/com/ngxdev/tinyprotocol/reflection/FieldAccessor.java" beforeDir="false" afterPath="$PROJECT_DIR$/Fiona/src/me/rida/tinyprotocol/reflection/FieldAccessor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fiona/src/com/ngxdev/tinyprotocol/reflection/MethodInvoker.java" beforeDir="false" afterPath="$PROJECT_DIR$/Fiona/src/me/rida/tinyprotocol/reflection/MethodInvoker.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fiona/src/com/ngxdev/tinyprotocol/reflection/Reflection.java" beforeDir="false" afterPath="$PROJECT_DIR$/Fiona/src/me/rida/tinyprotocol/reflection/Reflection.java" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-8" />
+    <option name="width" value="1680" />
+    <option name="height" value="934" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Fiona-Anticheat" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Fiona-Anticheat" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Fiona-Anticheat" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Fiona-Anticheat" type="462c0819:PsiDirectoryNode" />
+              <item name="Fiona" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Fiona-Anticheat" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Fiona-Anticheat" type="462c0819:PsiDirectoryNode" />
+              <item name="Fiona" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Fiona-Anticheat" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Fiona-Anticheat" type="462c0819:PsiDirectoryNode" />
+              <item name="Fiona" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="me" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Fiona-Anticheat" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Fiona-Anticheat" type="462c0819:PsiDirectoryNode" />
+              <item name="Fiona" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="me" type="462c0819:PsiDirectoryNode" />
+              <item name="rida" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Fiona-Anticheat" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Fiona-Anticheat" type="462c0819:PsiDirectoryNode" />
+              <item name="Fiona" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="me" type="462c0819:PsiDirectoryNode" />
+              <item name="rida" type="462c0819:PsiDirectoryNode" />
+              <item name="anticheat" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Fiona-Anticheat" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Fiona-Anticheat" type="462c0819:PsiDirectoryNode" />
+              <item name="Fiona" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="me" type="462c0819:PsiDirectoryNode" />
+              <item name="rida" type="462c0819:PsiDirectoryNode" />
+              <item name="anticheat" type="462c0819:PsiDirectoryNode" />
+              <item name="detections" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Fiona-Anticheat" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Fiona-Anticheat" type="462c0819:PsiDirectoryNode" />
+              <item name="Fiona" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="me" type="462c0819:PsiDirectoryNode" />
+              <item name="rida" type="462c0819:PsiDirectoryNode" />
+              <item name="anticheat" type="462c0819:PsiDirectoryNode" />
+              <item name="detections" type="462c0819:PsiDirectoryNode" />
+              <item name="combat" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Fiona-Anticheat" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Fiona-Anticheat" type="462c0819:PsiDirectoryNode" />
+              <item name="Fiona" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="me" type="462c0819:PsiDirectoryNode" />
+              <item name="rida" type="462c0819:PsiDirectoryNode" />
+              <item name="anticheat" type="462c0819:PsiDirectoryNode" />
+              <item name="detections" type="462c0819:PsiDirectoryNode" />
+              <item name="combat" type="462c0819:PsiDirectoryNode" />
+              <item name="aimassist" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Fiona-Anticheat" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Fiona-Anticheat" type="462c0819:PsiDirectoryNode" />
+              <item name="Fiona" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="me" type="462c0819:PsiDirectoryNode" />
+              <item name="rida" type="462c0819:PsiDirectoryNode" />
+              <item name="anticheat" type="462c0819:PsiDirectoryNode" />
+              <item name="detections" type="462c0819:PsiDirectoryNode" />
+              <item name="combat" type="462c0819:PsiDirectoryNode" />
+              <item name="aimassist" type="462c0819:PsiDirectoryNode" />
+              <item name="detections" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Fiona-Anticheat" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Fiona-Anticheat" type="462c0819:PsiDirectoryNode" />
+              <item name="Fiona" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="me" type="462c0819:PsiDirectoryNode" />
+              <item name="rida" type="462c0819:PsiDirectoryNode" />
+              <item name="anticheat" type="462c0819:PsiDirectoryNode" />
+              <item name="detections" type="462c0819:PsiDirectoryNode" />
+              <item name="combat" type="462c0819:PsiDirectoryNode" />
+              <item name="autoclicker" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Fiona-Anticheat" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Fiona-Anticheat" type="462c0819:PsiDirectoryNode" />
+              <item name="Fiona" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="me" type="462c0819:PsiDirectoryNode" />
+              <item name="rida" type="462c0819:PsiDirectoryNode" />
+              <item name="anticheat" type="462c0819:PsiDirectoryNode" />
+              <item name="detections" type="462c0819:PsiDirectoryNode" />
+              <item name="combat" type="462c0819:PsiDirectoryNode" />
+              <item name="fastbow" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Fiona-Anticheat" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Fiona-Anticheat" type="462c0819:PsiDirectoryNode" />
+              <item name="Fiona" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="me" type="462c0819:PsiDirectoryNode" />
+              <item name="rida" type="462c0819:PsiDirectoryNode" />
+              <item name="anticheat" type="462c0819:PsiDirectoryNode" />
+              <item name="detections" type="462c0819:PsiDirectoryNode" />
+              <item name="combat" type="462c0819:PsiDirectoryNode" />
+              <item name="killaura" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Fiona-Anticheat" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Fiona-Anticheat" type="462c0819:PsiDirectoryNode" />
+              <item name="Fiona" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="me" type="462c0819:PsiDirectoryNode" />
+              <item name="rida" type="462c0819:PsiDirectoryNode" />
+              <item name="anticheat" type="462c0819:PsiDirectoryNode" />
+              <item name="detections" type="462c0819:PsiDirectoryNode" />
+              <item name="combat" type="462c0819:PsiDirectoryNode" />
+              <item name="reach" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Fiona-Anticheat" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Fiona-Anticheat" type="462c0819:PsiDirectoryNode" />
+              <item name="Fiona" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="me" type="462c0819:PsiDirectoryNode" />
+              <item name="rida" type="462c0819:PsiDirectoryNode" />
+              <item name="anticheat" type="462c0819:PsiDirectoryNode" />
+              <item name="detections" type="462c0819:PsiDirectoryNode" />
+              <item name="combat" type="462c0819:PsiDirectoryNode" />
+              <item name="reach" type="462c0819:PsiDirectoryNode" />
+              <item name="detections" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Fiona-Anticheat" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Fiona-Anticheat" type="462c0819:PsiDirectoryNode" />
+              <item name="out" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Fiona-Anticheat" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Fiona-Anticheat" type="462c0819:PsiDirectoryNode" />
+              <item name="out" type="462c0819:PsiDirectoryNode" />
+              <item name="artifacts" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1549505643356" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Fiona" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.171875" />
+    <property name="project.structure.side.proportion" value="0.15212265" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Gigabite\Documents\GitHub\Fiona-Anticheat\Fiona\src\me\rida" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6c99faa0-4eb3-40f6-a4bc-85ef1448e0a5" name="Default Changelist" comment="" />
+      <created>1549505044826</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1549505044826</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1096" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25266525" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32917964" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" visible="true" weight="0.32917964" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Messages" order="10" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Maven" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+    </layout>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Fiona/src/me/rida/anticheat/AntiCheat.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Fiona/src/me/rida/anticheat/commands/FunkeArgument.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Fiona/src/me/rida/anticheat/commands/FunkeCommand.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Fiona/src/me/rida/anticheat/commands/FunkeCommandManager.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Fiona/src/me/rida/anticheat/detections/Check.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-47" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Fiona/src/me/rida/anticheat/detections/combat/aimassist/detections/TypeA.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Fiona/src/me/rida/anticheat/detections/combat/aimassist/detections/TypeB.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Fiona/src/me/rida/anticheat/detections/combat/aimassist/detections/TypeC.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Fiona/src/me/rida/anticheat/detections/combat/aimassist/detections/TypeD.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Fiona/src/me/rida/anticheat/detections/combat/autoclicker/AutoClicker.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Fiona/src/me/rida/anticheat/detections/combat/reach/detections/TypeA.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-353" />
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>Fiona-Anticheat:jar</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.15212265" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>Fiona-Anticheat</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
